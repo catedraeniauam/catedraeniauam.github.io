@@ -9,6 +9,10 @@ redirect_from:
 
 (Code: TSI-100927-2023-2)
 
+<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="1000"/>
+<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="1000"/>
+<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="1000"/>
+
 About me
 ======
 
