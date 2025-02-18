@@ -1,0 +1,31 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/ 
+
+  - title: "Public Funding"
+    url: /public_funding/   
+
+  - title: "Private Funding"
+    url: /private_funding/ 
+
+  - title: "Awards"
+    url: /awards/ 
+
+  - title: "PhD Students"
+    url: /students/ 
+    
+  - title: "Organizer"
+    url: /organizer/ 
+
+  - title: "Gallery"
+    url: /gallery/
+
+  - title: "Reviewer"
+    url: /reviewer/ 
+    
+  - title: "Teaching"
+    url: /teaching/    
+    
+   
+
