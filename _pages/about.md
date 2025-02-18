@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Cátedra ENIA UAM-VERIDAS en IA Responsable\n(Code: TSI-100927-2023-2)."
 author_profile: true
 redirect_from: 
   - /about/
