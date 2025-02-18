@@ -78,44 +78,6 @@ analytics:
     tracking_id          :
 
 
-# Site Author
-author:
-  name             : "Ruben Tolosana"
-  avatar           : "profileRT.JPG"
-  bio              : "Associate Professor<br /> Universidad Autonoma de Madrid"
-  location         : "Madrid, Spain."
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en"
-  email            : "ruben.tolosana@uam.es"
-  researchgate     : "https://www.researchgate.net/profile/Ruben-Tolosana"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         : "ruben-tolosana-975878100"
-  orcid            : "https://orcid.org/0000-0002-9393-3066"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
