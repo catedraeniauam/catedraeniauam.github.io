@@ -9,8 +9,8 @@ redirect_from:
 
 (Code: TSI-100927-2023-2)
 
-<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="500"/>
-<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="500"/>
+<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="left" width="500"/>
+<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="right" width="500"/>
 <img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="500"/>
 
 About me
