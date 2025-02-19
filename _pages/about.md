@@ -14,7 +14,7 @@ redirect_from:
   <tr>
       <td colspan="2" width="50%">
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/CatedraENIA.png" style="width:auto;height:25%"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/CatedraENIA.png" style="width:25%;height:auto"></p>
         </div>
       </td>
     </tr>
