@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Organizer"
-permalink: /organizer/
-author_profile: true
+title: "Scientific Events"
+permalink: /scientific_events/
+author_profile: false
 ---
 
 
