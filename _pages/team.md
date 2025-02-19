@@ -8,7 +8,7 @@ author_profile: false
 Principal Investigators
 -----
 
-<table>
+<table style="border: 0px">
   <tbody>
     <tr>
       <td width="50%">
@@ -26,3 +26,9 @@ Principal Investigators
     </tr>
   </tbody>
 </table>
+
+<style>
+    table, th, td {
+        border: 0px;
+    }
+</style>
