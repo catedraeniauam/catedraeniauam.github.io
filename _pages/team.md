@@ -121,7 +121,7 @@ Technician
     <tr>
       <td>
         <div>
-          <p align="center"><img class="img-25" src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
+          <p align="center"><img class="img-25" src="https://catedraeniauam.github.io/images/marcos.png"></p>
           <p align="center"><a class="nombre" href="">Marcos Grande</a></p>
         </div>
       </td>
