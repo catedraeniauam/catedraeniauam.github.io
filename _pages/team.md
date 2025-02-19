@@ -61,9 +61,9 @@ PostDoc
 <table>
   <tbody>
     <tr>
-      <td width="50%">
+      <td>
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/Luis felipe.png"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/Luis felipe.png" style="height:50%"></p>
           <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=Nq3NyHYAAAAJ&hl=en">Luis Felipe Gómez-Gómez</a></p>
         </div>
       </td>
@@ -119,9 +119,9 @@ Technician
 <table>
   <tbody>
     <tr>
-      <td width="50%">
+      <td>
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg" style="height:50%"></p>
           <p align="center"><a class="nombre" href="">Marcos Grande</a></p>
         </div>
       </td>
