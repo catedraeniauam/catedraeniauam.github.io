@@ -1,31 +1,13 @@
 # main links links
 main:
+  - title: "Team"
+    url: /team/
+
   - title: "Publications"
-    url: /publications/ 
-
-  - title: "Public Funding"
-    url: /public_funding/   
-
-  - title: "Private Funding"
-    url: /private_funding/ 
-
-  - title: "Awards"
-    url: /awards/ 
-
-  - title: "PhD Students"
-    url: /students/ 
+    url: /publications/
     
-  - title: "Organizer"
-    url: /organizer/ 
+  - title: "Scientific Events"
+    url: /scientific_events/
 
   - title: "Gallery"
     url: /gallery/
-
-  - title: "Reviewer"
-    url: /reviewer/ 
-    
-  - title: "Teaching"
-    url: /teaching/    
-    
-   
-
