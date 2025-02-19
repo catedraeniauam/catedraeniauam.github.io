@@ -11,15 +11,17 @@ redirect_from:
 
 <table>
   <tbody>
-    <tr>
-      <td width="50%">
+  <tr>
+      <td colspan="2" width="50%">
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/CatedraENIA.jpg" style="width:70%;height:auto;"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/CatedraENIA.png" style="width:70%;height:auto;"></p>
         </div>
       </td>
-      <td width="50%">
+    </tr>
+    <tr>
+      <td colspan="2" width="50%">
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/ministerio de españa.jpg" style="width:70%;height:auto;"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/ministerio espana.png" style="width:70%;height:auto;"></p>
         </div>
       </td>
     </tr>
