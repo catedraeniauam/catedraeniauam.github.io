@@ -9,9 +9,48 @@ redirect_from:
 
 (Code: TSI-100927-2023-2)
 
-<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="left" width="500"/>
-<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="right" width="500"/>
-<img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="500"/>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/CatedraENIA.jpg" style="width:70%;height:auto;"></p>
+        </div>
+      </td>
+      <td width="50%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/ministerio de españa.jpg" style="width:70%;height:auto;"></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" width="50%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/NextGenerationEU.png" style="width:70%;height:auto;"></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" width="50%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/plan RTR.png" style="width:70%;height:auto;"></p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/logo_bidaES.png" style="width:70%;height:auto;"></p>
+        </div>
+      </td>
+      <td width="50%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/veridas new.png" style="width:70%;height:auto;"></p>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Description
 ======
