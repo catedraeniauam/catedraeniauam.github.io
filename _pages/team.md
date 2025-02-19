@@ -14,13 +14,13 @@ Principal Investigators
       <td width="50%">
         <div>
           <p align="center"><img src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
-          <p align="center"><a href="https://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
+          <p align="center"><a class="nombre" href="https://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
         </div>
       </td>
       <td width="50%">
         <div>
           <p align="center"><img src="https://catedraeniauam.github.io/images/Tolosana.jpg"></p>
-          <p align="center"><a href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
+          <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
         </div>
       </td>
     </tr>
@@ -33,7 +33,7 @@ Principal Investigators
         height:auto;
     }
 
-    a {
+    .nombre {
         font-size: 10px;
     }
 
