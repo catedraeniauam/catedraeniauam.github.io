@@ -63,7 +63,7 @@ PostDoc
     <tr>
       <td>
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/luis_gomez.png"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/Luis felipe.png"></p>
           <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=Nq3NyHYAAAAJ&hl=en">Luis Felipe Gómez-Gómez</a></p>
         </div>
       </td>
