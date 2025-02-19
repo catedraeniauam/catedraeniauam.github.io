@@ -8,7 +8,7 @@ author_profile: false
 Principal Investigators
 -----
 
-<table style="border: 0px">
+<table>
   <tbody>
     <tr>
       <td width="50%">
@@ -30,7 +30,7 @@ Principal Investigators
 Research Members
 -----
 
-<table style="border: 0px">
+<table>
   <tbody>
     <tr>
       <td width="33%">
@@ -58,19 +58,13 @@ Research Members
 PostDoc
 -----
 
-<table style="border: 0px">
+<table>
   <tbody>
     <tr>
-      <td width="50%">
+      <td>
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
-          <p align="center"><a class="nombre" href="https://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
-        </div>
-      </td>
-      <td width="50%">
-        <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/Tolosana.jpg"></p>
-          <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/luis_gomez.png"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=Nq3NyHYAAAAJ&hl=en">Luis Felipe Gómez-Gómez</a></p>
         </div>
       </td>
     </tr>
@@ -80,19 +74,39 @@ PostDoc
 PhD Students
 -----
 
-<table style="border: 0px">
+<table>
   <tbody>
+    <tr>
+      <td width="33%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/javier.png"></p>
+          <p align="center"><a class="nombre" href="">Javier Muñoz-Haro</a></p>
+        </div>
+      </td>
+      <td width="33%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/laura.png"></p>
+          <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Laura Pedrouzo-Rodriguez</a></p>
+        </div>
+      </td>
+      <td width="33%">
+        <div>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg"></p>
+          <p align="center"><a class="nombre" href="">Javier Irigoyen</a></p>
+        </div>
+      </td>
+    </tr>
     <tr>
       <td width="50%">
         <div>
           <p align="center"><img src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
-          <p align="center"><a class="nombre" href="https://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
+          <p align="center"><a class="nombre" href="">Marta Robledo</a></p>
         </div>
       </td>
       <td width="50%">
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/Tolosana.jpg"></p>
-          <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
+          <p align="center"><a class="nombre" href="">Miguel López</a></p>
         </div>
       </td>
     </tr>
@@ -102,19 +116,13 @@ PhD Students
 Technician
 -----
 
-<table style="border: 0px">
+<table>
   <tbody>
     <tr>
-      <td width="50%">
+      <td>
         <div>
           <p align="center"><img src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
-          <p align="center"><a class="nombre" href="https://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
-        </div>
-      </td>
-      <td width="50%">
-        <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/Tolosana.jpg"></p>
-          <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
+          <p align="center"><a class="nombre" href="">Marcos Grande</a></p>
         </div>
       </td>
     </tr>
