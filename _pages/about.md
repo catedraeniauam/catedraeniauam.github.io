@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-(Code: TSI-100927-2023-2)
+<p><b>(Code: TSI-100927-2023-2)</b></p>
 
 <table>
   <tbody>
