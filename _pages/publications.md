@@ -44,4 +44,4 @@ Conference Papers
 
 - M. Navarro, Á. Becerra, R. Daza, R. Cobos, A. Morales and J. Fierrez. <a href="https://ieeexplore.ieee.org/abstract/document/10604520" target="_blank">VAAD: Visual Attention Analysis Dashboard Applied to e-Learning</a>. *IEEE International Symposium on Computers in Education, SIIE*, 2024.
 
-- Á. Becerra,  J. Irigoyen, R. Daza; R. Cobos, A. Morales, J. Fierrez and M. Cukurova. <a href="https://ieeexplore.ieee.org/abstract/document/10604582" target="_blank">Biometrics and Behavior Analysis for Detecting Distractions in e- Learning</a>. *IEEE International Symposium on Computers in Education, SIIE*, 2024.
+- Á. Becerra,  J. Irigoyen, R. Daza, R. Cobos, A. Morales, J. Fierrez and M. Cukurova. <a href="https://ieeexplore.ieee.org/abstract/document/10604582" target="_blank">Biometrics and Behavior Analysis for Detecting Distractions in e- Learning</a>. *IEEE International Symposium on Computers in Education, SIIE*, 2024.
