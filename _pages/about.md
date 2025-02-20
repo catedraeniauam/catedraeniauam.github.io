@@ -42,7 +42,7 @@ redirect_from:
     <tr>
       <td width="50%">
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/logo_bidaES.png" style="width:70%;height:auto;"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/bidalab.jpg" style="width:70%;height:auto;"></p>
         </div>
       </td>
       <td width="50%">
