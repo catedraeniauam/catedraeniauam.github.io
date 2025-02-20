@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Team"
 permalink: /team/
 author_profile: false
@@ -12,16 +11,12 @@ Principal Investigators
   <tbody>
     <tr>
       <td width="50%">
-        <div>
           <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
           <p align="center"><a class="nombre" href="https://biometrics.eps.uam.es/fierrez/index.php">Julian Fierrez</a></p>
-        </div>
       </td>
       <td width="50%">
-        <div>
           <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/Tolosana.jpg"></p>
           <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Ruben Tolosana</a></p>
-        </div>
       </td>
     </tr>
   </tbody>
@@ -34,22 +29,16 @@ Research Members
   <tbody>
     <tr>
       <td width="33%">
-        <div>
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Ortega.png"></p>
           <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=LwiecBYAAAAJ&hl=en">Javier Ortega-Garcia</a></p>
-        </div>
       </td>
       <td width="33%">
-        <div>
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Morales.jpg"></p>
           <p align="center"><a class="nombre" href="https://aythami.me/">Aythami Morales</a></p>
-        </div>
       </td>
       <td width="33%">
-        <div>
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Vera.jpg"></p>
           <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en">Ruben Vera-Rodriguez</a></p>
-        </div>
       </td>
     </tr>
   </tbody>
@@ -62,10 +51,8 @@ PostDoc
   <tbody>
     <tr>
       <td>
-        <div>
           <p align="center"><img class="img-25" src="https://catedraeniauam.github.io/images/Luis felipe.png"></p>
           <p align="center"><a class="nombre" href="https://scholar.google.com/citations?user=Nq3NyHYAAAAJ&hl=en">Luis Felipe Gómez-Gómez</a></p>
-        </div>
       </td>
     </tr>
   </tbody>
@@ -78,36 +65,26 @@ PhD Students
   <tbody>
     <tr>
       <td width="33%">
-        <div>
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/javier.png"></p>
           <p align="center"><a class="nombre" href="">Javier Muñoz-Haro</a></p>
-        </div>
       </td>
       <td width="33%">
-        <div>
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/laura.png"></p>
           <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Laura Pedrouzo-Rodriguez</a></p>
-        </div>
       </td>
       <td width="33%">
-        <div>
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg" style="width:300px"></p>
           <p align="center"><a class="nombre" href="">Javier Irigoyen</a></p>
-        </div>
       </td>
     </tr>
     <tr>
       <td width="33%">
-        <div>
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/marta.jpg"></p>
           <p align="center"><a class="nombre" href="">Marta Robledo</a></p>
-        </div>
       </td>
       <td width="33%">
-        <div>
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
           <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=tGNzY0EAAAAJ&hl=es&oi=ao">Miguel López</a></p>
-        </div>
       </td>
       <td width="33%">
       </td>
