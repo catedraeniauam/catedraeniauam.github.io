@@ -91,23 +91,25 @@ PhD Students
       </td>
       <td width="33%">
         <div>
-          <p align="center"><img  src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg" style="width:100px"></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg" style="width:100px"></p>
           <p align="center"><a class="nombre" href="">Javier Irigoyen</a></p>
         </div>
       </td>
     </tr>
     <tr>
-      <td width="50%">
+      <td width="33%">
         <div>
-          <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
           <p align="center"><a class="nombre" href="">Marta Robledo</a></p>
         </div>
       </td>
-      <td width="50%">
+      <td width="33%">
         <div>
-          <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
           <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=tGNzY0EAAAAJ&hl=es&oi=ao">Miguel López</a></p>
         </div>
+      </td width="33%">
+      <td>
       </td>
     </tr>
   </tbody>
