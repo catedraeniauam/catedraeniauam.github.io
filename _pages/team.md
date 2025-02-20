@@ -99,7 +99,7 @@ PhD Students
     <tr>
       <td width="33%">
         <div>
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/2020_Fierrez.jpg"></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/marta.jpg"></p>
           <p align="center"><a class="nombre" href="">Marta Robledo</a></p>
         </div>
       </td>
