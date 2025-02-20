@@ -106,7 +106,7 @@ PhD Students
       <td width="50%">
         <div>
           <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
-          <p align="center"><a class="nombre" href="">Miguel López</a></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=tGNzY0EAAAAJ&hl=es&oi=ao">Miguel López</a></p>
         </div>
       </td>
     </tr>
