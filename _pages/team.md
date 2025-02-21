@@ -73,7 +73,7 @@ PhD Students
           <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Laura Pedrouzo-Rodriguez</a></p>
       </td>
       <td width="33%">
-          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg" style="width:200px"></p>
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg"></p>
           <p align="center"><a class="nombre" href="">Javier Irigoyen</a></p>
       </td>
     </tr>
@@ -100,7 +100,7 @@ Technician
     <tr>
       <td>
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/marcos.png" style="width:200px"></p>
+          <p align="center"><img class="img-25" src="https://catedraeniauam.github.io/images/marcos.png"></p>
           <p align="center"><a class="nombre" href="">Marcos Grande</a></p>
         </div>
       </td>
