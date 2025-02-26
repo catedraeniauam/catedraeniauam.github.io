@@ -7,7 +7,7 @@ author_profile: true
 
 Juan López de Peñalver Award (2024), Spanish Royal Academy of Engineering, Spain (February 2025)
 -----
-- I received the [“Juan López de Peñalver Award (2024)”](https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/) from the [Spanish Royal Academy of Engineering](https://www.raing.es/). This award is granted to researchers/engineers under the age of 40 who have made outstanding contributions in any professional field of Spanish engineering. 
+- Ruben Tolosana received the [“Juan López de Peñalver Award (2024)”](https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/) from the [Spanish Royal Academy of Engineering](https://www.raing.es/). This award is granted to researchers/engineers under the age of 40 who have made outstanding contributions in any professional field of Spanish engineering. 
 
 <img src="https://rubentolosana.github.io/images/RAI_Awards.JPG" align="center" width="1000"/>
 
