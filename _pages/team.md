@@ -41,6 +41,32 @@ Research Members
           <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=KYMQ0tsAAAAJ&hl=en">Ruben Vera-Rodriguez</a></p>
       </td>
     </tr>
+    <tr>
+      <td width="33%">
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/ruth_cobos.jpg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=zaQzxsYAAAAJ&hl=en">Ruth Cobos</a></p>
+      </td>
+      <td width="33%">
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/monica_suarez.jpg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=UarrGOIAAAAJ&hl=en">Mónica Gómez Suárez</a></p>
+      </td>
+      <td width="33%">
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/angela_fernandez.jpg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=c3LIz3kAAAAJ&hl=en">Ángela Fernández Pascual</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%">
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/estrella_pulido.jpg"></p>
+          <p align="center"><a class="nombre" href="https://portalcientifico.uam.es/es/ipublic/researcher/259312">Estrella Pulido Cañabate</a></p>
+      </td>
+      <td width="33%">
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/ainoha_herrarte.jpg"></p>
+          <p align="center"><a class="nombre" href="https://sites.google.com/view/ainhoaherrarte/home">Ainhoa Herrarte Sánchez</a></p>
+      </td>
+      <td width="33%">
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -66,11 +92,11 @@ PhD Students
     <tr>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/javier.png"></p>
-          <p align="center"><a class="nombre" href="">Javier Muñoz-Haro</a></p>
+          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/javier-mu%C3%B1oz-haro-4861b321a/">Javier Muñoz-Haro</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/laura.png"></p>
-          <p align="center"><a class="nombre" href="https://rubentolosana.github.io/">Laura Pedrouzo-Rodriguez</a></p>
+          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/laurapedrouzo/">Laura Pedrouzo-Rodriguez</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg"></p>
@@ -80,7 +106,7 @@ PhD Students
     <tr>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/marta.jpg"></p>
-          <p align="center"><a class="nombre" href="">Marta Robledo</a></p>
+          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/marta-robledo-moreno/">Marta Robledo</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
@@ -101,7 +127,7 @@ Technician
       <td>
         <div>
           <p align="center"><img class="img-25" src="https://catedraeniauam.github.io/images/marcos.png"></p>
-          <p align="center"><a class="nombre" href="">Marcos Grande</a></p>
+          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/marcos-grande-aguilella-244a1424b/">Marcos Grande</a></p>
         </div>
       </td>
     </tr>
