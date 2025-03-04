@@ -47,7 +47,7 @@ redirect_from:
       </td>
       <td width="50%">
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/veridas new.png" style="width:70%;height:auto;"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/Veridas.jpg" style="width:70%;height:auto;"></p>
         </div>
       </td>
     </tr>
