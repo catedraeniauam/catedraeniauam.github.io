@@ -21,7 +21,7 @@ redirect_from:
     <tr>
       <td colspan="2" width="50%">
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/ministerio espana.png" style="width:70%;height:auto;"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/gob_es_mptfp.png" style="width:70%;height:auto;"></p>
         </div>
       </td>
     </tr>
@@ -35,7 +35,7 @@ redirect_from:
     <tr>
       <td colspan="2" width="50%">
         <div>
-          <p align="center"><img src="https://catedraeniauam.github.io/images/plan RTR2.png" style="width:70%;height:auto;"></p>
+          <p align="center"><img src="https://catedraeniauam.github.io/images/plan_rtr.png" style="width:70%;height:auto;"></p>
         </div>
       </td>
     </tr>
