@@ -76,6 +76,8 @@ News
 
 - **October, 2024:** Ruben Vera-Rodriguez gives the Keynote “Advances in Behavioral Mobile Biometrics and in Face Recognition through AI Generated Images” at <a href="https://recpad2024.web.app/">30th Portuguese Conference on Pattern Recognition, RECPAD 2024</a>, Covilha, Portugal.
 
+- **October, 2024:** Co-Organizer of the <a href="https://sites.google.com/view/wacv2025-map-a/home">Workshop on Manipulation, Generative, Adversarial, and Presentation Attacks in Biometrics (MAP-A)</a> at the <a href="https://wacv2025.thecvf.com/">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)</a>.
+
 - **March, 2024:** Hiring alert!! 2 Postdoctoral and 5 PhD students Positions at UAM. If you are interested, please check the following <a href="https://drive.google.com/file/d/1YSMEr4_SseqDQCv5NpLPYv57BEG-Ql8z/view">document</a> [CLOSED].
 
 - **January, 2024:** Co-Organizer of the Workshop/Challenge <a href="https://frcsyn.github.io/">2nd Edition Face Recognition Challenge in the Era of Synthetic Data (FRCSyn)</a> at the <a href="https://cvpr.thecvf.com/">IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR 2024)</a>. The platform used in the 2nd edition of FRCSyn challenge is <a href="https://codalab.lisn.upsaclay.fr/competitions/16970">CodaLab</a>.
