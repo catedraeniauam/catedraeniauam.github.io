@@ -106,7 +106,7 @@ PhD Students
     <tr>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/marta.jpg"></p>
-          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/marta-robledo-moreno/">Marta Robledo</a></p>
+          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/marta-robledo-moreno/">Marta Robledo-Moreno</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
