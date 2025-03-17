@@ -46,3 +46,7 @@ Conference Papers
 - M. Navarro, Á. Becerra, R. Daza, R. Cobos, A. Morales and J. Fierrez. <a href="https://ieeexplore.ieee.org/abstract/document/10604520" target="_blank">VAAD: Visual Attention Analysis Dashboard Applied to e-Learning</a>. in *Proc. IEEE International Symposium on Computers in Education, SIIE*, 2024.
 
 - Á. Becerra,  J. Irigoyen, R. Daza, R. Cobos, A. Morales, J. Fierrez and M. Cukurova. <a href="https://ieeexplore.ieee.org/abstract/document/10604582" target="_blank">Biometrics and Behavior Analysis for Detecting Distractions in e- Learning</a>. in *Proc. IEEE International Symposium on Computers in Education, SIIE*, 2024.
+
+- D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, R. Tolosana and J. Ortega-Garcia. <a href="https://aigovernance.github.io/" target="_blank">MINT-Demo: Membership Inference Test Demonstrator</a>. In *AAAI 2025 Workshop on AI Governance: Alignment, Morality, and Law*, 2025.
+
+- G. Mancera, D. DeAlcala, J. Fierrez, R. Tolosana and A. Morales. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs</a>. *arXiv preprint arXiv:2503.07384*, 2025.
