@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+XIV Feria Madrid es Ciencia 2025, Madrid, Spain (March 2025)
+-----
+- Some members of Cátedra ENIA presenting key advances in Artificial Intelligence (AI) at <a href="https://www.madrimasd.org/feriamadridesciencia/">XIV Feria Madrid es Ciencia 2025</a>, Madrid, Spain. This event focuses on school communities and the general public. The goal is to stimulate interest and curiosity in science, technology, and innovation through observation, experimentation, and analysis.
+
+<img src="https://catedraeniauam.github.io/images/2025_03_Madridesciencia.jpg" align="center" width="1000"/>
+
 AAAI 2025, Philadelphia, USA (March 2025)
 -----
 - Members of Cátedra ENIA UAM-VERIDAS en IA Responsable presenting several papers at the [39th Annual AAAI Conference on Artificial Intelligence, AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).

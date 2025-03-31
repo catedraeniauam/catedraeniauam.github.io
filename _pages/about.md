@@ -64,6 +64,10 @@ Description
 News 
 ======
 
+- **March, 2025:** Some members of Cátedra ENIA presenting key advances in Artificial Intelligence (AI) at <a href="https://www.madrimasd.org/feriamadridesciencia/">XIV Feria Madrid es Ciencia 2025</a>, Madrid, Spain. This event focuses on school communities and the general public. The goal is to stimulate interest and curiosity in science, technology, and innovation through observation, experimentation, and analysis.
+
+- **March, 2025:** Several papers presented at <a href="https://aaai.org/conference/aaai/aaai-25/">39th Annual AAAI Conference on Artificial Intelligence, AAAI 2025</a>, Philadelphia, Pennsylvania, USA.
+
 - **February, 2025:** Co-Organizer of the Workshop <a href="https://sites.google.com/view/fmllmgm-fg25">1st International Workshop on Foundation, Multimodal Large Language and Generative Models for Face and Gesture Recognition (FM&LLM&GM2025)</a> at the <a href="https://fg2025.ieee-biometrics.org/">IEEE Automatic Face and Gesture Recognition Conference (FG 2025)</a>.
 
 - **January, 2025:** Ruben Tolosana received the <a href="https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/">“Juan Lopez de Peñalver Award (2024)”</a> from the Spanish Royal Academy of Engineering <a href="https://www.raing.es/">(RAING)</a>. This award recognizes researchers/engineers under 40 years who have carried out outstanding development and innovation work in the field of engineering.
