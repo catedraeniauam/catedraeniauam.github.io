@@ -7,7 +7,7 @@ author_profile: true
 
 XIV Feria Madrid es Ciencia 2025, Madrid, Spain (March 2025)
 -----
-- Some members of Cátedra ENIA presenting key advances in Artificial Intelligence (AI) at <a href="https://www.madrimasd.org/feriamadridesciencia/">XIV Feria Madrid es Ciencia 2025</a>, Madrid, Spain. This event focuses on school communities and the general public. The goal is to stimulate interest and curiosity in science, technology, and innovation through observation, experimentation, and analysis.
+- Some members of Cátedra ENIA UAM-Veridas en IA Responsable presenting key advances in Artificial Intelligence (AI) at <a href="https://www.madrimasd.org/feriamadridesciencia/">XIV Feria Madrid es Ciencia 2025</a>, Madrid, Spain. The goal is to stimulate interest and curiosity in science, technology, and innovation through observation, experimentation, and analysis. In the picture, we also had the opportunity to meet up with other researchers of the <a href="https://dasci.es/es/divulgacion/catedra-universidad-empresa-en-ia-ugr-repsol/">Cátedra Universidad-Empresa en IA</a> from Universidad de Granada.
 
 <img src="https://catedraeniauam.github.io/images/2025_03_Madridesciencia.jpg" align="center" width="1000"/>
 
