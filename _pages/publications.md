@@ -31,6 +31,14 @@ Journal Articles
 Conference Papers
 -----
 
+- S. Romero-Tapiador, R. Tolosana, B. Lacruz-Pleguezuelos, L.J. Marcos-Zambrano, G.X. Bazán, I. Espinosa-Salinas, J. Fierrez, J. Ortega-Garcia, E. <a href="https://arxiv.org/abs/2504.06925">Carrillo de Santa Pau, and A. Morales. Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition</a>. In *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, 2025.
+
+- D. DeAlcala, A. Morales, J. Fierrez and R. Tolosana. <a href="">gMINT: Gradiant-based Membership Inference Test applied to Image Models</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, 2025.
+
+- D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, R. Tolosana and J. Ortega-Garcia. <a href="https://aigovernance.github.io/" target="_blank">MINT-Demo: Membership Inference Test Demonstrator</a>. In *AAAI 2025 Workshop on AI Governance: Alignment, Morality, and Law*, 2025.
+
+- G. Mancera, D. DeAlcala, J. Fierrez, R. Tolosana and A. Morales. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs</a>. *arXiv preprint arXiv:2503.07384*, 2025.
+
 - D. Dealcala, G. Mancera, A. Morales, J. Fierrez, R. Tolosana and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10678207" target="_blank">A Comprehensive Analysis of Factors Impacting Membership Inference</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, 2024.
 
 - I. Solano, A. Peña, A. Morales, J. Fierrez, R. Tolosana, F. Zamora-Martinez and J. San Agustin. <a href="https://dl.acm.org/doi/10.1007/978-3-031-78341-8_8" target="_blank">Comprehensive Equity Index (CEI): Definition and Application to Bias Evaluation in Biometrics</a>. in *Proc. 27th International Conference on Pattern Recognition, ICPR*, 2024.
@@ -46,7 +54,3 @@ Conference Papers
 - M. Navarro, Á. Becerra, R. Daza, R. Cobos, A. Morales and J. Fierrez. <a href="https://ieeexplore.ieee.org/abstract/document/10604520" target="_blank">VAAD: Visual Attention Analysis Dashboard Applied to e-Learning</a>. in *Proc. IEEE International Symposium on Computers in Education, SIIE*, 2024.
 
 - Á. Becerra,  J. Irigoyen, R. Daza, R. Cobos, A. Morales, J. Fierrez and M. Cukurova. <a href="https://ieeexplore.ieee.org/abstract/document/10604582" target="_blank">Biometrics and Behavior Analysis for Detecting Distractions in e- Learning</a>. in *Proc. IEEE International Symposium on Computers in Education, SIIE*, 2024.
-
-- D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, R. Tolosana and J. Ortega-Garcia. <a href="https://aigovernance.github.io/" target="_blank">MINT-Demo: Membership Inference Test Demonstrator</a>. In *AAAI 2025 Workshop on AI Governance: Alignment, Morality, and Law*, 2025.
-
-- G. Mancera, D. DeAlcala, J. Fierrez, R. Tolosana and A. Morales. <a href="https://arxiv.org/abs/2503.07384" target="_blank">Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs</a>. *arXiv preprint arXiv:2503.07384*, 2025.

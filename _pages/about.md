@@ -64,6 +64,8 @@ Description
 News 
 ======
 
+- **April, 2025:** Two papers accepted in different workshops of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025). Topics: <a href="https://arxiv.org/abs/2504.06925">Vision-Language Models in Food Image Recognition</a> and <a href="https://arxiv.org/abs/2504.06925">Membership Inference Test applied to Images</a>.
+
 - **March, 2025:** Some members of Cátedra ENIA presenting key advances in Artificial Intelligence (AI) at <a href="https://www.madrimasd.org/feriamadridesciencia/">XIV Feria Madrid es Ciencia 2025</a>, Madrid, Spain. This event focuses on school communities and the general public. The goal is to stimulate interest and curiosity in science, technology, and innovation through observation, experimentation, and analysis.
 
 - **March, 2025:** Several papers presented at <a href="https://aaai.org/conference/aaai/aaai-25/">39th Annual AAAI Conference on Artificial Intelligence, AAAI 2025</a>, Philadelphia, Pennsylvania, USA.
