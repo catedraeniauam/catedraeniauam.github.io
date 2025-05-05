@@ -8,6 +8,8 @@ author_profile: false
 Keynotes / Scientific Talks
 -----
 
+- Ruben Tolosana: Scientific Talk in the topic of “Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models”, *Universidad Rey Juan Carlos (URJC)*, Madrid, Spain, April 2025. <a href="https://en.urjc.es/">[Web]</a>
+
 - Ruben Tolosana: Scientific Talk about his research career and topics related to Cátedra ENIA UAM-VERIDAS en IA Responsable after receiving “Juan Lopez de Peñalver 2024 Award”, *Spanish Royal Academy of Engineering, RAING*, Madrid, Spain, February 2024. <a href="https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/">[Web]</a>
 
 - Julian Fierrez: “Biometrics and Behavior for Information Forensics and Learning Assessment in Online Education”, *16th IEEE International Workshop on Information Forensics and Security, WIFS 2024*, Rome, Italy, December 2024. <a href="https://wifs2024.uniroma3.it/?page_id=173">[Web]</a>
@@ -20,6 +22,8 @@ Keynotes / Scientific Talks
 
 Workshop Organizer
 -----
+
+- Forum on Artificial Intelligence in Research (FAIR), La Cristalera, Madrid, Spain, April 2025. The aim of the Forum was to provide a clear overview of the key milestones, seminal works, and fundamental mechanisms that have shaped this field. <a href="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html">[Web]</a>
 
 - Workshop 1st International Workshop on Foundation, Multimodal Large Language and Generative Models for Face and Gesture Recognition (FM&LLM&GM2025) at the *IEEE Automatic Face and Gesture Recognition Conference, FG 2025*, Clearwater, USA, May 2025. <a href="https://sites.google.com/view/fmllmgm-fg25">[Web]</a>
 
