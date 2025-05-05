@@ -15,7 +15,7 @@ Organization of the Forum on Artificial Intelligence in Research (FAIR), Madrid,
 -----
 - Aythami Morales co-organized the “<a href="https://eventos.uam.es/127963/detail/fair-n-forum-on-artificial-intelligence-in-research.html">Forum on Artificial Intelligence in Research (FAIR)</a>”, celebrated from April 28th to April 30th 2025 at La Cristalera (Madrid). The aim of the Forum was to provide a clear overview of the key milestones, seminal works, and fundamental mechanisms that have shaped this field.
 
-<img src="https://catedraeniauam.github.io/images/2025_04_FAIR_Aythami.jpg" align="center" width="1000"/>
+<img src="https://catedraeniauam.github.io/images/2025_04_FAIR_General.jpg" align="center" width="1000"/>
 
 XIV Feria Madrid es Ciencia 2025, Madrid, Spain (March 2025)
 -----
