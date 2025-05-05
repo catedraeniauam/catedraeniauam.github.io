@@ -64,6 +64,10 @@ Description
 News 
 ======
 
+- **April, 2025**: Ruben Tolosana gives a Talk in the topic of "Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models" at <a href="https://en.urjc.es/">Universidad Rey Juan Carlos (URJC)</a>.
+
+- **April, 2025**: Aythami Morales co-organizes the “<a href="https://eventos.uam.es/127963/detail/fair-n-forum-on-artificial-intelligence-in-research.html">Forum on Artificial Intelligence in Research (FAIR)</a>”, celebrated from April 28th to April 30th 2025 at La Cristalera (Madrid). The aim of the Forum is to provide a clear overview of the key milestones, seminal works, and fundamental mechanisms that have shaped this field.
+
 - **April, 2025:** Two papers accepted in different workshops of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025). Topics: <a href="https://arxiv.org/abs/2504.06925">Vision-Language Models in Food Image Recognition</a> and <a href="https://arxiv.org/abs/2504.06925">Membership Inference Test applied to Images</a>.
 
 - **March, 2025:** Some members of Cátedra ENIA presenting key advances in Artificial Intelligence (AI) at <a href="https://www.madrimasd.org/feriamadridesciencia/">XIV Feria Madrid es Ciencia 2025</a>, Madrid, Spain. This event focuses on school communities and the general public. The goal is to stimulate interest and curiosity in science, technology, and innovation through observation, experimentation, and analysis.

@@ -5,6 +5,18 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Talk about Biometrics and Media Forensics, Universidad Rey Juan Carlos (URJC), Spain (April 2025)
+-----
+- Talk of Ruben Tolosana in the topic of "Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models" at <a href="https://en.urjc.es/">Universidad Rey Juan Carlos (URJC)</a>.
+
+<img src="https://catedraeniauam.github.io/images/2025_04_30_Talk_URJC.jpg" align="center" width="1000"/>
+
+Organization of the Forum on Artificial Intelligence in Research (FAIR), Madrid, Spain (April 2025)
+-----
+- Aythami Morales co-organized the “<a href="https://eventos.uam.es/127963/detail/fair-n-forum-on-artificial-intelligence-in-research.html">Forum on Artificial Intelligence in Research (FAIR)</a>”, celebrated from April 28th to April 30th 2025 at La Cristalera (Madrid). The aim of the Forum was to provide a clear overview of the key milestones, seminal works, and fundamental mechanisms that have shaped this field.
+
+<img src="https://catedraeniauam.github.io/images/2025_04_FAIR_Aythami.jpg" align="center" width="1000"/>
+
 XIV Feria Madrid es Ciencia 2025, Madrid, Spain (March 2025)
 -----
 - Some members of Cátedra ENIA UAM-Veridas en IA Responsable presenting key advances in Artificial Intelligence (AI) at <a href="https://www.madrimasd.org/feriamadridesciencia/">XIV Feria Madrid es Ciencia 2025</a>, Madrid, Spain. The goal is to stimulate interest and curiosity in science, technology, and innovation through observation, experimentation, and analysis. In the picture, we also had the opportunity to meet up with other researchers of the <a href="https://dasci.es/es/divulgacion/catedra-universidad-empresa-en-ia-ugr-repsol/">Cátedra Universidad-Empresa en IA</a> from Universidad de Granada.
