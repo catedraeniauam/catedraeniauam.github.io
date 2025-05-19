@@ -64,6 +64,10 @@ Description
 News 
 ======
 
+- **May, 2025**: Aythami Morales in the news! “<a href="https://retinatendencias.com/negocios/hollywood-nos-ha-mentido-lo-que-pasa-si-roban-tu-plantilla-biometrica/">¿Hollywood nos ha mentido? Lo que pasa si roban tu plantilla biométrica</a>”. Published in Retina (El Pais).
+
+- **May, 2025**: Ruben Tolosana received the “<a href="https://www.uam.es/uam/investigacion/premios-jovenes-investigadores">Best Young Researchers Award (2024)</a>” from the <a href="https://www.uam.es/uam/inicio">Universidad Autonoma de Madrid (UAM)</a>. This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center.
+
 - **April, 2025**: Ruben Tolosana gives a Talk in the topic of "Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models" at <a href="https://en.urjc.es/">Universidad Rey Juan Carlos (URJC)</a>.
 
 - **April, 2025**: Aythami Morales co-organizes the “<a href="https://eventos.uam.es/127963/detail/fair-n-forum-on-artificial-intelligence-in-research.html">Forum on Artificial Intelligence in Research (FAIR)</a>”, celebrated from April 28th to April 30th 2025 at La Cristalera (Madrid). The aim of the Forum is to provide a clear overview of the key milestones, seminal works, and fundamental mechanisms that have shaped this field.
