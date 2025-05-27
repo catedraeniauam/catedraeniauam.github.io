@@ -8,6 +8,8 @@ author_profile: false
 Keynotes / Scientific Talks / Roundtables
 -----
 
+- Julian Fierrez: Participates in the “Business-Technology Roundtable” at the Intersectoral Forum for the Regulation of Digital Real Identity, organized by <a href="https://fundacionhermes.org/en-gb/fundacion-hermes-eng/">Fundación Hermes</a>.
+
 - Aythami Morales: Scientific Talk in the topic of “Artificial Intelligence and Bias” at <a href="https://pintofscience.es/">Pint of Science ES</a> (Citynizer Plaza). A brilliant initiative to bring science to society through talks in a fun and relaxed atmosphere in bars throughout Spain.
 
 - Ruben Tolosana: Scientific Talk in the topic of “Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models”, *Universidad Rey Juan Carlos (URJC)*, Madrid, Spain, April 2025. <a href="https://en.urjc.es/">[Web]</a>
