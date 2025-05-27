@@ -64,6 +64,8 @@ Description
 News 
 ======
 
+- -	**May, 2025**: Aythami Morales gives a talk in the topic of “Artificial Intelligence and Bias” at <a href="https://pintofscience.es/">Pint of Science ES</a> (Citynizer Plaza). A brilliant initiative to bring science to society through talks in a fun and relaxed atmosphere in bars throughout Spain.
+
 - **May, 2025**: Aythami Morales in the news! “<a href="https://retinatendencias.com/negocios/hollywood-nos-ha-mentido-lo-que-pasa-si-roban-tu-plantilla-biometrica/">¿Hollywood nos ha mentido? Lo que pasa si roban tu plantilla biométrica</a>”. Published in Retina (El Pais).
 
 - **May, 2025**: Ruben Tolosana received the “<a href="https://www.uam.es/uam/investigacion/premios-jovenes-investigadores">Best Young Researchers Award (2024)</a>” from the <a href="https://www.uam.es/uam/inicio">Universidad Autonoma de Madrid (UAM)</a>. This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center.

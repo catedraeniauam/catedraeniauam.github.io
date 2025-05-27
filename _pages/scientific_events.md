@@ -8,6 +8,8 @@ author_profile: false
 Keynotes / Scientific Talks
 -----
 
+- Aythami Morales: Scientific Talk in the topic of “Artificial Intelligence and Bias” at <a href="https://pintofscience.es/">Pint of Science ES</a> (Citynizer Plaza). A brilliant initiative to bring science to society through talks in a fun and relaxed atmosphere in bars throughout Spain.
+
 - Ruben Tolosana: Scientific Talk in the topic of “Advances in Biometric Recognition and Media Forensics in the Era of Synthetic Data and Foundation Models”, *Universidad Rey Juan Carlos (URJC)*, Madrid, Spain, April 2025. <a href="https://en.urjc.es/">[Web]</a>
 
 - Ruben Tolosana: Scientific Talk about his research career and topics related to Cátedra ENIA UAM-VERIDAS en IA Responsable after receiving “Juan Lopez de Peñalver 2024 Award”, *Spanish Royal Academy of Engineering, RAING*, Madrid, Spain, February 2024. <a href="https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/">[Web]</a>
