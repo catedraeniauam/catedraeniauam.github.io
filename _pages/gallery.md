@@ -9,7 +9,7 @@ Talk about Artificial Intelligence and Bias, Pint of Science ES, Spain (May 2025
 -----
 - Aythami Morales gives a talk in the topic of “Artificial Intelligence and Bias” at <a href="https://pintofscience.es/">Pint of Science ES</a> (Citynizer Plaza). A brilliant initiative to bring science to society through talks in a fun and relaxed atmosphere in bars throughout Spain.
 
-<img src="https://catedraeniauam.github.io/images/PintOfScienceES.jpg" align="center" width="1000"/>
+<img src="https://catedraeniauam.github.io/images/2025_05_Aythami_Pint_of_Science.jfif" align="center" width="1000"/>
 
 Talk about Biometrics and Media Forensics, Universidad Rey Juan Carlos (URJC), Spain (April 2025)
 -----
