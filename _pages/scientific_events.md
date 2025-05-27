@@ -5,7 +5,7 @@ permalink: /scientific_events/
 author_profile: false
 ---
 
-Keynotes / Scientific Talks
+Keynotes / Scientific Talks / Roundtables
 -----
 
 - Aythami Morales: Scientific Talk in the topic of “Artificial Intelligence and Bias” at <a href="https://pintofscience.es/">Pint of Science ES</a> (Citynizer Plaza). A brilliant initiative to bring science to society through talks in a fun and relaxed atmosphere in bars throughout Spain.

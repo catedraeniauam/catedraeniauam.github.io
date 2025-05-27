@@ -64,6 +64,8 @@ Description
 News 
 ======
 
+- **May 2025**: Julian Fierrez participates in the “Business-Technology Roundtable” at the Intersectoral Forum for the Regulation of Digital Real Identity, organized by <a href="https://fundacionhermes.org/en-gb/fundacion-hermes-eng/">Fundación Hermes</a>.
+
 - **May, 2025**: Aythami Morales gives a talk in the topic of “Artificial Intelligence and Bias” at <a href="https://pintofscience.es/">Pint of Science ES</a> (Citynizer Plaza). A brilliant initiative to bring science to society through talks in a fun and relaxed atmosphere in bars throughout Spain.
 
 - **May, 2025**: Aythami Morales in the news! “<a href="https://retinatendencias.com/negocios/hollywood-nos-ha-mentido-lo-que-pasa-si-roban-tu-plantilla-biometrica/">¿Hollywood nos ha mentido? Lo que pasa si roban tu plantilla biométrica</a>”. Published in Retina (El Pais).
