@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Best Paper Award at 2nd MetaFood Workshop, IEEE/CVF CVPR 2025, Nashville, USA (June 2025)
+-----
+- Our paper <a href="https://openaccess.thecvf.com/content/CVPR2025W/MTF/html/Romero-Tapiador_Are_Vision-Language_Models_Ready_for_Dietary_Assessment_Exploring_the_Next_CVPRW_2025_paper.html">“Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition”</a> received the “Best Paper Award” at the <a href="https://sites.google.com/view/cvpr-metafood-2025">2nd MetaFood Workshop</a> organized within <a href="https://cvpr.thecvf.com/">IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2025</a>.
+
+<img src="https://catedraeniauam.github.io/images/CVPR_2025.jpg" align="center" width="1000"/>
+
 Talk about Artificial Intelligence and Bias, Pint of Science ES, Spain (May 2025)
 -----
 - Aythami Morales gives a talk in the topic of “Artificial Intelligence and Bias” at <a href="https://pintofscience.es/">Pint of Science ES</a> (Citynizer Plaza). A brilliant initiative to bring science to society through talks in a fun and relaxed atmosphere in bars throughout Spain.

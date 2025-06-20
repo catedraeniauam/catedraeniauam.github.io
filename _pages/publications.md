@@ -31,9 +31,9 @@ Journal Articles
 Conference Papers
 -----
 
-- G. Mancera, D. DeAlcala, A. Morales, R. Tolosana and J. Fierrez. <a href="">Membership Inference Test: Auditing Training Data in Object Models</a>. in *Deployable AI Association for the Advancement of Artificial Intelligence Workshop, AAAIw*, 2025.
+- S. Romero-Tapiador, R. Tolosana, B. Lacruz-Pleguezuelos, L.J. Marcos-Zambrano, G.X. Bazán, I. Espinosa-Salinas, J. Fierrez, J. Ortega-Garcia, E. Carrillo de Santa Pau, and A. Morales. <a href="https://openaccess.thecvf.com/content/CVPR2025W/MTF/html/Romero-Tapiador_Are_Vision-Language_Models_Ready_for_Dietary_Assessment_Exploring_the_Next_CVPRW_2025_paper.html">Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition</a>. In *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, 2025.
 
-- S. Romero-Tapiador, R. Tolosana, B. Lacruz-Pleguezuelos, L.J. Marcos-Zambrano, G.X. Bazán, I. Espinosa-Salinas, J. Fierrez, J. Ortega-Garcia, E. <a href="https://arxiv.org/abs/2504.06925">Carrillo de Santa Pau, and A. Morales. Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition</a>. In *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, 2025.
+- G. Mancera, D. DeAlcala, A. Morales, R. Tolosana and J. Fierrez. <a href="">Membership Inference Test: Auditing Training Data in Object Models</a>. in *Deployable AI Association for the Advancement of Artificial Intelligence Workshop, AAAIw*, 2025.
 
 - D. DeAlcala, A. Morales, J. Fierrez and R. Tolosana. <a href="">gMINT: Gradiant-based Membership Inference Test applied to Image Models</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, 2025.
 
