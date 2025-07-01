@@ -31,7 +31,7 @@ Journal Articles
 Conference Papers
 -----
 
-- D. DeAlcala, A. Morales, J. Fierrez, G. Mancera , R. Tolosana and J. Ortega-Garcia. <a href="">Active Membership Inference Test (aMINT):Enhancing Model Auditability with Multi-Task Learning</a>. In *Proc. IEEE/CVF Intenational Coference on Computer Vision ICCV*, 2025.
+- D. DeAlcala, A. Morales, J. Fierrez, G. Mancera , R. Tolosana and J. Ortega-Garcia. <a href="">Active Membership Inference Test (aMINT):Enhancing Model Auditability with Multi-Task Learning</a>. In *Proc. IEEE/CVF Intenational Conference on Computer Vision, ICCV*, 2025.
 
 - K. Nguyen, C. Fookes, S. Sridharan, H. Nguyen, F. Liu, X. Liu, A. Ross, D. Michalski, T. Endrei, I. DeAndres-Tame, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia, Z. Gong, Y. Wang, X. Liu, P. Zhang, Md Rashidunnabi, H. Proença, K. A. Hambarde, S. Rezaei. <a href="https://arxiv.org/pdf/2506.22843">AG-VPReID 2025: Aerial-Ground Video-based Person Re-identification Challenge Results</a>. In *Proc. IEEE International Joint Conference on Biometrics, IJCB*, 2025. **(Winners of the Challenge)**
 
