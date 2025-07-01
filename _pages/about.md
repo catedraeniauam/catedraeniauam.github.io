@@ -64,7 +64,7 @@ Description
 News 
 ======
 
-- **June, 2025**: Our proposal, X-TFCLIP, has won the <a href="https://agvpreid25.github.io/">Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)</a> organized within <a href="https://ijcb2025.ieee-biometrics.org/">IEEE International Joint Conference on Biometrics, IJCB 2025</a>. All the details of the AG-VPReID 2025 challenge are publicly available in the <a href="https://arxiv.org/abs/2506.22843">corresponding paper</a>. 
+- **July, 2025**: Our proposal, X-TFCLIP, has won the <a href="https://agvpreid25.github.io/">Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)</a> organized within <a href="https://ijcb2025.ieee-biometrics.org/">IEEE International Joint Conference on Biometrics, IJCB 2025</a>. All the details of the AG-VPReID 2025 challenge are publicly available in the <a href="https://arxiv.org/abs/2506.22843">corresponding paper</a>. 
 
 - **June, 2025**: Our paper <a href="https://openaccess.thecvf.com/content/CVPR2025W/MTF/html/Romero-Tapiador_Are_Vision-Language_Models_Ready_for_Dietary_Assessment_Exploring_the_Next_CVPRW_2025_paper.html">“Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition”</a> received the “Best Paper Award” at the <a href="https://sites.google.com/view/cvpr-metafood-2025">2nd MetaFood Workshop</a> organized within <a href="https://cvpr.thecvf.com/">IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2025</a>.
 
