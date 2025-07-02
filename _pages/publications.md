@@ -39,7 +39,7 @@ Conference Papers
 
 - G. Mancera, D. DeAlcala, A. Morales, R. Tolosana and J. Fierrez. <a href="">Membership Inference Test: Auditing Training Data in Object Models</a>. in *Deployable AI Association for the Advancement of Artificial Intelligence Workshop, AAAIw*, 2025.
 
-- D. DeAlcala, A. Morales, J. Fierrez and R. Tolosana. <a href="">gMINT: Gradiant-based Membership Inference Test applied to Image Models</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, 2025.
+- D. DeAlcala, A. Morales, J. Fierrez and R. Tolosana. <a href="https://openaccess.thecvf.com/content/CVPR2025W/XAI4CV/html/DeAlcala_gMINT_Gradiant-based_Membership_Inference_Test_applied_to_Image_Models._CVPRW_2025_paper.html">gMINT: Gradiant-based Membership Inference Test applied to Image Models</a>. in *Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRw*, 2025.
 
 - D. DeAlcala, A. Morales, J. Fierrez, G. Mancera, R. Tolosana and J. Ortega-Garcia. <a href="https://aigovernance.github.io/" target="_blank">MINT-Demo: Membership Inference Test Demonstrator</a>. In *AAAI 2025 Workshop on AI Governance: Alignment, Morality, and Law*, 2025.
 
