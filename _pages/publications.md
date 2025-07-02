@@ -55,7 +55,7 @@ Conference Papers
 
 - M. Ghafourian, J. Fierrez, R. Vera-Rodriguez, R. Tolosana and A. Morales. <a href="https://ieeexplore.ieee.org/document/10769131" target="_blank">SaFL: Sybil-aware Federated Learning with Application to Face Recognition</a>. In *Proc. IEEE International Conference on Image Processing Challenges and Workshops, ICIPCW*, 2024.
 
-- S.M. La Cava, S. Concas, R. Tolosana, R. Casula, G. Orru, M. Drahansky, J. Fierrez and G.L. Marciallis. <a href="https://arxiv.org/abs/2409.10481" target="_blank">Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance</a>. in *Proc. IEEE/CVF European Conference on Computer Vision Workshops, ECCVw*, 2024.
+- S.M. La Cava, S. Concas, R. Tolosana, R. Casula, G. Orru, M. Drahansky, J. Fierrez and G.L. Marciallis. <a href="https://dl.acm.org/doi/10.1007/978-3-031-91575-8_16" target="_blank">Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance</a>. in *Proc. IEEE/CVF European Conference on Computer Vision Workshops, ECCVw*, 2024.
 
 - M. Navarro, Á. Becerra, R. Daza, R. Cobos, A. Morales and J. Fierrez. <a href="https://ieeexplore.ieee.org/abstract/document/10604520" target="_blank">VAAD: Visual Attention Analysis Dashboard Applied to e-Learning</a>. in *Proc. IEEE International Symposium on Computers in Education, SIIE*, 2024.
 
