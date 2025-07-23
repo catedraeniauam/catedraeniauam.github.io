@@ -8,7 +8,7 @@ author_profile: false
 Keynotes / Scientific Talks / Roundtables
 -----
 
-- Ruben Tolosana: Keynote in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>.
+- Ruben Tolosana: Keynote in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>, Madrid, Spain, July 2025.
 
 - Julian Fierrez: Participates in the “Business-Technology Roundtable” at the Intersectoral Forum for the Regulation of Digital Real Identity, organized by <a href="https://fundacionhermes.org/en-gb/fundacion-hermes-eng/">Fundación Hermes</a>, Madrid, Spain, May 2025.
 
