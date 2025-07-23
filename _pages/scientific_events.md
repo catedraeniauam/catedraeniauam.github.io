@@ -8,6 +8,8 @@ author_profile: false
 Keynotes / Scientific Talks / Roundtables
 -----
 
+- Ruben Tolosana: Keynote in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>.
+
 - Julian Fierrez: Participates in the “Business-Technology Roundtable” at the Intersectoral Forum for the Regulation of Digital Real Identity, organized by <a href="https://fundacionhermes.org/en-gb/fundacion-hermes-eng/">Fundación Hermes</a>, Madrid, Spain, May 2025.
 
 - Aythami Morales: Scientific Talk in the topic of “Artificial Intelligence and Bias” at <a href="https://pintofscience.es/">Pint of Science ES</a> (Citynizer Plaza). A brilliant initiative to bring science to society through talks in a fun and relaxed atmosphere in bars throughout Spain, May 2025.
@@ -16,13 +18,13 @@ Keynotes / Scientific Talks / Roundtables
 
 - Ruben Tolosana: Scientific Talk about his research career and topics related to Cátedra ENIA UAM-VERIDAS en IA Responsable after receiving “Juan Lopez de Peñalver 2024 Award”, *Spanish Royal Academy of Engineering, RAING*, Madrid, Spain, February 2025. <a href="https://www.raing.es/comunicacion/actos/premios-y-distinciones/premios-jovenes-investigadores/premios-jovenes-investigadores-2024/">[Web]</a>
 
-- Julian Fierrez: “Biometrics and Behavior for Information Forensics and Learning Assessment in Online Education”, *16th IEEE International Workshop on Information Forensics and Security, WIFS 2024*, Rome, Italy, December 2024. <a href="https://wifs2024.uniroma3.it/?page_id=173">[Web]</a>
+- Julian Fierrez: Keynote in “Biometrics and Behavior for Information Forensics and Learning Assessment in Online Education”, *16th IEEE International Workshop on Information Forensics and Security, WIFS 2024*, Rome, Italy, December 2024. <a href="https://wifs2024.uniroma3.it/?page_id=173">[Web]</a>
 
-- Aythami Morales: “Unravelling the Layers: Understanding the Impact of Bias on Machine Learning at Multiple Levels”, *27th International Conference on Pattern Recognition Workshops, ICPRw 2024*, Kolkata, India, December 2024. <a href="https://sites.google.com/view/icpr2024-fairbio">[Web]</a>
+- Aythami Morales: Keynote in “Unravelling the Layers: Understanding the Impact of Bias on Machine Learning at Multiple Levels”, *27th International Conference on Pattern Recognition Workshops, ICPRw 2024*, Kolkata, India, December 2024. <a href="https://sites.google.com/view/icpr2024-fairbio">[Web]</a>
 
-- Julian Fierrez: “Biometrics and Behavior for Improving Human-Computer Interaction with Application to Online Education”, *27th Iberoamerican Congress on Pattern Recognition, CIARP 2024*, Talca, Chile, November 2024. <a href="http://www.ciarp24.org/">[Web]</a>
+- Julian Fierrez: Keynote in “Biometrics and Behavior for Improving Human-Computer Interaction with Application to Online Education”, *27th Iberoamerican Congress on Pattern Recognition, CIARP 2024*, Talca, Chile, November 2024. <a href="http://www.ciarp24.org/">[Web]</a>
 
-- Ruben Vera-Rodriguez: “Advances in Behavioral Mobile Biometrics and in Face Recognition through AI Generated Images”, *30th Portuguese Conference on Pattern Recognition, RECPAD 2024*, Covilha, Portugal, October 2024. <a href="https://recpad2024.web.app/">[Web]</a>
+- Ruben Vera-Rodriguez: Keynote in “Advances in Behavioral Mobile Biometrics and in Face Recognition through AI Generated Images”, *30th Portuguese Conference on Pattern Recognition, RECPAD 2024*, Covilha, Portugal, October 2024. <a href="https://recpad2024.web.app/">[Web]</a>
 
 Workshop Organizer
 -----

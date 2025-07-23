@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Keynote about Synthetic Data and Foundation Models, ICCIDA 2025, Spain (July 2025)
+-----
+- Keynote of Ruben Tolosana in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>.
+
+<img src="https://catedraeniauam.github.io/images/ICCIDA_2025_Keynote.png" align="center" width="1000"/>
+
 Best Paper Award at 2nd MetaFood Workshop, IEEE/CVF CVPR 2025, Nashville, USA (June 2025)
 -----
 - Our paper <a href="https://openaccess.thecvf.com/content/CVPR2025W/MTF/html/Romero-Tapiador_Are_Vision-Language_Models_Ready_for_Dietary_Assessment_Exploring_the_Next_CVPRW_2025_paper.html">“Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition”</a> received the “Best Paper Award” at the <a href="https://sites.google.com/view/cvpr-metafood-2025">2nd MetaFood Workshop</a> organized within <a href="https://cvpr.thecvf.com/">IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2025</a>.
