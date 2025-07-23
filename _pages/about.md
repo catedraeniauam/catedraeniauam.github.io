@@ -64,7 +64,7 @@ Description
 News 
 ======
 
-- **July, 2025**: Giving a Keynote in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>.
+- **July, 2025**: Ruben Tolosana gives a Keynote in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>.
 
 - **July, 2025**: Our proposal, X-TFCLIP, has won the <a href="https://agvpreid25.github.io/">Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)</a> organized within <a href="https://ijcb2025.ieee-biometrics.org/">IEEE International Joint Conference on Biometrics, IJCB 2025</a>. All the details of the AG-VPReID 2025 challenge are publicly available in the <a href="https://arxiv.org/abs/2506.22843">corresponding paper</a>. 
 
