@@ -47,3 +47,12 @@ Competition Organizer
 - 2nd Edition FRCSyn: Face Recognition Challenge in the Era of Synthetic Data at the *IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2024*, Seattle, USA, June 2024. <a href="https://codalab.lisn.upsaclay.fr/competitions/16970">[Web]</a>
 
 - 1st Edition FRCSyn: Face Recognition Challenge in the Era of Synthetic Data at the *IEEE/CVF Winter Conf. on Applications of Computer Vision, WACV 2024*, Waikoloa, Hawaii, January 2024. <a href="https://codalab.lisn.upsaclay.fr/competitions/15485">[Web]</a>
+
+Technical Training for Companies
+-----
+
+- Ruben Tolosana and Javier Muñoz-Haro: “DeepID Challenge at ICCV 2025 and Advances”, Veridas company, 28 September 2025. [Web]
+
+- Ruben Tolosana and Javier Muñoz-Haro: “Fake ID Generation and Detection”, Veridas company, 11 April 2025. <a href="https://veridas.com/en/advancing-towards-responsible-ai-a-high-quality-training-partnership-between-uam-and-veridas/">[Web]</a>
+
+- Julian Fierrez: “Introduction to Cátedra ENIA UAM-Veridas en IA Responsable and Overview of AAAI 2025 Conference”, Veridas company, 3 April 2025. <a href="https://veridas.com/en/advancing-towards-responsible-ai-a-high-quality-training-partnership-between-uam-and-veridas/">[Web]</a>
