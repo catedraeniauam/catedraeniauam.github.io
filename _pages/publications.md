@@ -31,6 +31,13 @@ Journal Articles
 Conference Papers
 -----
 
+- D. DeAlcala, A. Morales, J. Fierrez and R. Tolosana. <a href="https://arxiv.org/abs/2508.03625">AttZoom: Attention Zoom for Better Visual Features</a>. In *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, 2025.
+
+- M. Lopez-Duran, J. Fierrez, A. Morales, R. Tolosana, O. Delgado-Mohatar and A. Ortigosa. <a href="https://arxiv.org/pdf/2505.14699?">Benchmarking Graph Neural Networks for
+Document Layout Analysis in Public Affairs</a>. In *Proc. International Conference on Document Analysis and Recognition, ICDAR*, 2025.
+
+- M. Robledo-Moreno, R. Vera-Rodriguez, R. Tolosana, J. Ortega-Garcia, A. Huergo and J. Fierrez. <a href="https://arxiv.org/pdf/2508.08502">AirSignatureDB: Exploring In-Air Signature Biometrics in the Wild and its Privacy Concerns</a>. In *Proc. IEEE International Joint Conference on Biometrics, IJCB*, 2025.
+
 - D. DeAlcala, A. Morales, J. Fierrez, G. Mancera , R. Tolosana and J. Ortega-Garcia. <a href="">Active Membership Inference Test (aMINT):Enhancing Model Auditability with Multi-Task Learning</a>. In *Proc. IEEE/CVF Intenational Conference on Computer Vision, ICCV*, 2025.
 
 - K. Nguyen, C. Fookes, S. Sridharan, H. Nguyen, F. Liu, X. Liu, A. Ross, D. Michalski, T. Endrei, I. DeAndres-Tame, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, J. Ortega-Garcia, Z. Gong, Y. Wang, X. Liu, P. Zhang, Md Rashidunnabi, H. Proença, K. A. Hambarde, S. Rezaei. <a href="https://arxiv.org/pdf/2506.22843">AG-VPReID 2025: Aerial-Ground Video-based Person Re-identification Challenge Results</a>. In *Proc. IEEE International Joint Conference on Biometrics, IJCB*, 2025. **(Winners of the Challenge)**
