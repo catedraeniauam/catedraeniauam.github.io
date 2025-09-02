@@ -64,6 +64,10 @@ Description
 News 
 ======
 
+- **September, 2025**: Four papers accepted in different workshops of <a href="https://ijcb2025.ieee-biometrics.org/">IEEE/IAPR International Joint Conference on Biometrics, IJCB 2025</a>. Topics: <a href="https://arxiv.org/abs/2504.07761v2">Fake ID Detection</a>, <a href="https://arxiv.org/abs/2508.00748v2">Biometric Verification in Avatar Scenarios</a>, <a href="https://arxiv.org/abs/2508.08502">In-Air Signature Biometrics</a>, and <a href="https://arxiv.org/abs/2506.22843">Aerial-Ground Person Re-identification</a>.
+
+- **September, 2025**: Two papers accepted in different workshops of <a href="https://www.icdar2025.com/">IAPR International Conference on Document Analysis and Recognition, ICDAR 2025</a>. Topics: <a href="https://arxiv.org/abs/2505.14699">Document Layout Analysis</a>, and <a href="https://arxiv.org/abs/2507.02966">Privacy- and Bias-Aware in NLP</a>.
+
 - **July, 2025**: Ruben Tolosana gives a Keynote in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>.
 
 - **July, 2025**: Our proposal, X-TFCLIP, has won the <a href="https://agvpreid25.github.io/">Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)</a> organized within <a href="https://ijcb2025.ieee-biometrics.org/">IEEE International Joint Conference on Biometrics, IJCB 2025</a>. All the details of the AG-VPReID 2025 challenge are publicly available in the <a href="https://arxiv.org/abs/2506.22843">corresponding paper</a>. 
