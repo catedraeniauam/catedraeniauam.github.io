@@ -35,6 +35,8 @@ Conference Papers
 
 - J. Muñoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales and J. Fierrez. <a href="https://arxiv.org/abs/2504.07761">“FakeIDet: Exploring Patches for Privacy-Preserving Fake ID Detection”</a>. In *Proc. IEEE International Joint Conference on Biometrics, IJCB*, 2025.
 
+- L. Pedrouzo-Rodriguez, P. Delgado-DeRobles, Luis F. Gomez, Ruben Tolosana, Ruben Vera-Rodriguez, Aythami Morales, and Julian Fierrez. <a href="https://arxiv.org/abs/2508.00748">Is It Really You? Exploring Biometric Verification Scenarios in Photorealistic Talking-Head Avatar Videos</a>. In *Proc. IEEE International Joint Conference on Biometrics, IJCB*, 2025.
+
 - D. DeAlcala, A. Morales, J. Fierrez and R. Tolosana. <a href="https://arxiv.org/abs/2508.03625">AttZoom: Attention Zoom for Better Visual Features</a>. In *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, 2025.
 
 - M. Lopez-Duran, J. Fierrez, A. Morales, R. Tolosana, O. Delgado-Mohatar and A. Ortigosa. <a href="https://arxiv.org/pdf/2505.14699?">Benchmarking Graph Neural Networks for
