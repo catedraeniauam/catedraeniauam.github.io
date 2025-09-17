@@ -31,6 +31,10 @@ Journal Articles
 Conference Papers
 -----
 
+- P. Korshunov, Vidit, A. Mohammadi, C. Ecabert, N. Shamoska, S. Marcel, Z. Yu, Y. Tian, J. Ni, L. Lazarevic, R. Khizbullin, A. Evteeva, A. Tochin, A. Grishin, A. George, D. DeAlcala, T. Endrei, J. Munoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, G. Cserey, H. Sharma, S. Chaudhary, A. Dudhane, P. Hambarde, A. Shukla, P. Shaily, J. Kumar, A. Hase, S. Maurya, M. Sharma and P. Dwivedi. <a href="https://publications.idiap.ch/attachments/papers/2025/Korshunov_ICCV_2025.pdf">"DeepID Challenge of Detecting Synthetic Manipulations in ID Documents"</a>. In *Proc. IEEE International Conference on Computer Vision Workshops, ICCVw*, 2025. **(Second in Track 2 and Fourth in Track 1 of the Challenge)**
+
+- J. Muñoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales and J. Fierrez. <a href="https://arxiv.org/abs/2504.07761">“FakeIDet: Exploring Patches for Privacy-Preserving Fake ID Detection”</a>. In *Proc. IEEE International Joint Conference on Biometrics, IJCB*, 2025.
+
 - D. DeAlcala, A. Morales, J. Fierrez and R. Tolosana. <a href="https://arxiv.org/abs/2508.03625">AttZoom: Attention Zoom for Better Visual Features</a>. In *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, 2025.
 
 - M. Lopez-Duran, J. Fierrez, A. Morales, R. Tolosana, O. Delgado-Mohatar and A. Ortigosa. <a href="https://arxiv.org/pdf/2505.14699?">Benchmarking Graph Neural Networks for
