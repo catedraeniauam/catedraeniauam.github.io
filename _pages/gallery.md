@@ -9,7 +9,7 @@ Prof. Anil K. Jain visits BiDA-Lab, Madrid, Spain (September 2025)
 -----
 - <a href="https://scholar.google.com/citations?user=g-_ZXGsAAAAJ&hl=en">Prof. Anil K. Jain</a> visited our BiDA-Lab research group. We had the honor to discuss interesting topics in Artificial Intelligence, including our recent research lines and advances in topics such as DeepFakes and Fake ID Detection, Behavioral Biometrics, Explainability and Bias, etc.
 
-<img src="https://catedraeniauam.github.io/images/Anil_Jain_BiDALab 1.png" align="center" width="1000"/>
+<img src="https://catedraeniauam.github.io/images/Anil_Jain_BiDALab.png" align="center" width="1000"/>
 
 IEEE/IAPR IJCB 2025, Osaka, Japan (September 2025)
 -----
