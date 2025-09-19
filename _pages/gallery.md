@@ -15,7 +15,7 @@ IEEE/IAPR IJCB 2025, Osaka, Japan (September 2025)
 -----
 - Presenting our research and technology at <a href="https://ijcb2025.ieee-biometrics.org/">IEEE/IAPR International Joint Conference on Biometrics</a>. We got three papers accepted in different topics: <a href="https://arxiv.org/abs/2504.07761v2">Fake ID Detection</a>, <a href="https://arxiv.org/abs/2508.00748v2">Biometric Verification in Avatar Scenarios</a>, and <a href="https://arxiv.org/abs/2508.08502">In-Air Signature Biometrics</a>. We are also the winners of the <a href="https://agvpreid25.github.io/">Aerial-Ground Person Re-identification Challenge (AG-VPReID 2025)</a>. All the details of the AG-VPReID 2025 challenge are publicly available in the <a href="https://arxiv.org/abs/2506.22843">corresponding paper</a>.
 
-<img src="https://catedraeniauam.github.io/images/IJCB_2025.png" align="center" width="1000"/>
+<img src="https://catedraeniauam.github.io/images/IJCB_2025_new.png" align="center" width="1000"/>
 
 Keynote about Synthetic Data and Foundation Models, ICCIDA 2025, Spain (July 2025)
 -----
