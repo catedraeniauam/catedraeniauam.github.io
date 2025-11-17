@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+IEEE/CVF ICCVw 2025, Honolulu, Hawaii (October 2025)
+-----
+- Presenting our research and technology at <a href="https://iccv.thecvf.com/">IEEE/CVF Intenational Conference on Computer Vision Workshops</a>. We got three papers accepted: <a href="">Active Membership Inference Test (aMINT):Enhancing Model Auditability with Multi-Task Learning</a>, <a href="https://arxiv.org/abs/2508.03625">AttZoom: Attention Zoom for Better Visual Features</a>, and <a href="https://publications.idiap.ch/attachments/papers/2025/Korshunov_ICCV_2025.pdf">"DeepID Challenge of Detecting Synthetic Manipulations in ID Documents"</a>.
+
+<img src="https://catedraeniauam.github.io/images/iccv-2025-daniel.png" align="center" width="1000"/>
+
 Prof. Anil K. Jain visits BiDA-Lab, Madrid, Spain (September 2025)
 -----
 - <a href="https://scholar.google.com/citations?user=g-_ZXGsAAAAJ&hl=en">Prof. Anil K. Jain</a> visited our BiDA-Lab research group. We had the honor to discuss interesting topics in Artificial Intelligence, including our recent research lines and advances in topics such as DeepFakes and Fake ID Detection, Behavioral Biometrics, Explainability and Bias, etc.
