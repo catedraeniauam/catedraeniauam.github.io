@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+Best Young Researchers Award (2024), Universidad Autonoma de Madrid, Spain (December 2025)
+-----
+- Ruben Tolosana received the <a href="https://www.uam.es/uam/noticias/entrega-diplomas-premios-jovenes-investigadores-2025">“Best Young Researchers Award (2024)”</a> from the <a href="https://www.uam.es/uam/inicio">Universidad Autonoma de Madrid</a>. This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center.
+
+<img src="https://catedraeniauam.github.io/images/UAM_Under40_Award.jpg" align="center" width="1000"/>
+
 IEEE/CVF ICCVw 2025, Honolulu, Hawaii (October 2025)
 -----
 - Presenting our research and technology at <a href="https://iccv.thecvf.com/">IEEE/CVF Intenational Conference on Computer Vision Workshops</a>. We got three papers accepted: <a href="https://openaccess.thecvf.com/content/ICCV2025/html/DeAlcala_Active_Membership_Inference_Test_aMINT_Enhancing_Model_Auditability_with_Multi-Task_ICCV_2025_paper.html">Active Membership Inference Test (aMINT):Enhancing Model Auditability with Multi-Task Learning</a>, <a href="https://openaccess.thecvf.com/content/ICCV2025W/HCV/html/DeAlcala_AttZoom_Attention_Zoom_for_Better_Visual_Features_ICCVW_2025_paper.html">AttZoom: Attention Zoom for Better Visual Features</a>, and <a href="https://publications.idiap.ch/attachments/papers/2025/Korshunov_ICCV_2025.pdf">"DeepID Challenge of Detecting Synthetic Manipulations in ID Documents"</a>.
