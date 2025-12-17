@@ -29,6 +29,8 @@ Keynotes / Scientific Talks / Roundtables
 Workshop Organizer
 -----
 
+- Workshop From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026) at the IEEE Automatic Face and Gesture Recognition Conference, FG 2026, Kyoto, Japan, May 2026. <a href="https://sites.google.com/view/trustfa-fg2026/home">[Web]</a>
+
 - Forum on Artificial Intelligence in Research (FAIR), La Cristalera, Madrid, Spain, April 2025. The aim of the Forum was to provide a clear overview of the key milestones, seminal works, and fundamental mechanisms that have shaped this field. <a href="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html">[Web]</a>
 
 - Workshop 1st International Workshop on Foundation, Multimodal Large Language and Generative Models for Face and Gesture Recognition (FM&LLM&GM2025) at the *IEEE Automatic Face and Gesture Recognition Conference, FG 2025*, Clearwater, USA, May 2025. <a href="https://sites.google.com/view/fmllmgm-fg25">[Web]</a>
@@ -50,6 +52,8 @@ Competition Organizer
 
 Technical Training for Companies
 -----
+
+- Laura Pedrouzo-Rodriguez, Marta Robledo-Moreno, Miguel Lopez-Duran, Javier Irigoyen, Luis F. Gomez: “Cátedra ENIA: Advances in AI Research”, Veridas company, 24 October 2025. [Web]
 
 - Ruben Tolosana and Javier Muñoz-Haro: “DeepID Challenge at ICCV 2025 and Advances”, Veridas company, 28 September 2025. [Web]
 
