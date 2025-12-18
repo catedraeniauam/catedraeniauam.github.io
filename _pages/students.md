@@ -14,7 +14,7 @@ PhD Students
 
 - Miguel Lopez-Duran: “Graph Machine Learning applied to Document Analysis and Cybersecurity”, Supervisors: Julian Fierrez and Oscar Delgado Mohatar, 2024-Ongoing.
 
-- Marta Robledo-Moreno: “”, Supervisors: Ruben Vera-Rodriguez and Javier Ortega-Garcia, 2024-Ongoing.
+- Marta Robledo-Moreno: “Biometric Systems in the Era of Smart Devices: Advances in Data Fusion and Artificial Ingelligence”, Supervisors: Ruben Vera-Rodriguez and Javier Ortega-Garcia, 2024-Ongoing.
 
 - Javier Irigoyen: “”, Supervisors: Julian Fierrez and …., 2024-Ongoing.
 
