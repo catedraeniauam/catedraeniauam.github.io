@@ -12,7 +12,7 @@ PhD Students
 
 - Javier Muñoz Haro: “Generative AI and Synthetic Data: New Approaches to Improve the Performance and Robustness of Security Systems”, Supervisors: Ruben Tolosana and Ruben Vera-Rodriguez, 2024-Ongoing.
 
-- Miguel Lopez-Duran: “”, Supervisors: Julian Fierrez and …, 2024-Ongoing.
+- Miguel Lopez-Duran: “Graph Machine Learning applied to Document Analysis and Cybersecurity”, Supervisors: Julian Fierrez and Oscar Delgado Mohatar, 2024-Ongoing.
 
 - Marta Robledo-Moreno: “”, Supervisors: Ruben Vera-Rodriguez and Javier Ortega-Garcia, 2024-Ongoing.
 
