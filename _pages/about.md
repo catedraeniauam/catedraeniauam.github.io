@@ -64,6 +64,10 @@ Description
 News 
 ======
 
+- **January, 2026**: Co-Organizer of the Workshop <a href="https://sites.google.com/view/trustfa-fg2026/home">From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026)</a> at the <a href="https://fg2026.ieee-biometrics.org/">IEEE Automatic Face and Gesture Recognition Conference (FG 2026)</a>.
+
+- **October, 2025**: J. Fierrez, R. Tolosana, J. Ortega-Garcia and A. Morales are selected as most influential researchers in the world in 2024 according to “<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8">Ranking of the World Scientist: World Top 2%</a>”, carried out by Stanford University and Elsevier.
+
 - **October, 2025**: Our proposed Fake ID Detection Method has achieved the 2nd and 4th position in the localization and detection tasks, respectively, in <a href="https://deepid-iccv.github.io/#home">The Challenge of Detecting Synthetic Manipulations in ID Documents (DeepID Challenge)</a> organized within <a href="https://iccv.thecvf.com/">IEEE/CVF International Conference on Computer Vision, ICCV 2025</a>. Also, on the private dataset, our proposed method has achieved the highest scores, showing a better out-of-domain generalization capabilities in comparison to other approaches. All the details of the DeepID challenge are publicly available in the <a href="https://publications.idiap.ch/attachments/papers/2025/Korshunov_ICCV_2025.pdf">corresponding paper</a>.
 
 - **September, 2025**: Four papers accepted in different workshops of <a href="https://ijcb2025.ieee-biometrics.org/">IEEE/IAPR International Joint Conference on Biometrics, IJCB 2025</a>. Topics: <a href="https://arxiv.org/abs/2504.07761v2">Fake ID Detection</a>, <a href="https://arxiv.org/abs/2508.00748v2">Biometric Verification in Avatar Scenarios</a>, <a href="https://arxiv.org/abs/2508.08502">In-Air Signature Biometrics</a>, and <a href="https://arxiv.org/abs/2506.22843">Aerial-Ground Person Re-identification</a>.

@@ -53,6 +53,8 @@ Competition Organizer
 Technical Training for Companies
 -----
 
+- Julian Fierrez and Ruben Tolosana: "Improving Biometrics through Synthetic Data”, Veridas company, 16 January 2026.
+
 - Laura Pedrouzo-Rodriguez, Marta Robledo-Moreno, Miguel Lopez-Duran, Javier Irigoyen, Luis F. Gomez: “Cátedra ENIA: Advances in AI Research”, Veridas company, 24 October 2025. [Web]
 
 - Ruben Tolosana and Javier Muñoz-Haro: “DeepID Challenge at ICCV 2025 and Advances”, Veridas company, 28 September 2025. [Web]
