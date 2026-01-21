@@ -43,6 +43,8 @@ M.Sc. Students
 B.Sc. Students
 -----
 
+- Yanina Jazmín Sosa González: "Análisis exploratorio del comportamiento humano mediante seguimiento ocular y biometría facial: unestudio en el dilema del prisionero", Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación, 2026
+
 - Luna Charro Fernández: “Aplicación de Técnicas de Inteligencia Artificial para la Caracterización de Placas de Ateroma en Cardiopatía Isquémica Precoz”, Grado en Ingeniería Biomédica, 2025-Ongoing.
 
 - Andrés Huergo Perea: “Reconocimiento Biométrico de Firma Aérea mediante Dispositivos Móviles”, Grado en Ingeniería de Tecnologías y Servicios de Telecomunicaciones, 2025.
