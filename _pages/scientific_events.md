@@ -28,6 +28,11 @@ Keynotes / Scientific Talks / Roundtables
 
 - Ruben Vera-Rodriguez: Keynote in “Advances in Behavioral Mobile Biometrics and in Face Recognition through AI Generated Images”, *30th Portuguese Conference on Pattern Recognition, RECPAD 2024*, Covilha, Portugal, October 2024. <a href="https://recpad2024.web.app/">[Web]</a>
 
+Conference Organizer
+-----
+
+- Ruben Tolosana is the Publicity Chair of the 25th International Conference of the Biometrics Special Interest Group, BIOSIG, 25-26 November 2026. <a href="https://biosig.de/">[Web]</a>
+
 Workshop Organizer
 -----
 

@@ -64,6 +64,8 @@ Description
 News 
 ======
 
+- **February, 2026**: Ruben Tolosana is the Publicity Chair of <a href="https://biosig.de/">The 25th International Conference of the Biometrics Special Interest Group (BIOSIG)</a>. The conference will take place at Darmstadt (Germany), 25-26 November 2026.
+
 - **January, 2026**: Co-Organizer of the Workshop <a href="https://sites.google.com/view/trustfa-fg2026/home">From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026)</a> at the <a href="https://fg2026.ieee-biometrics.org/">IEEE Automatic Face and Gesture Recognition Conference (FG 2026)</a>.
 
 - **October, 2025**: J. Fierrez, R. Tolosana, J. Ortega-Garcia and A. Morales are selected as most influential researchers in the world in 2024 according to “<a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8">Ranking of the World Scientist: World Top 2%</a>”, carried out by Stanford University and Elsevier.
