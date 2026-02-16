@@ -23,6 +23,8 @@ PhD Students
 M.Sc. Students
 -----
 
+- Iván López Sánchez: “Análisis de Interacciones entre Humanos y Agentes Artificiales mediante Biometría y Comportamiento: Aplicación a Juegos Sociales”, Máster Universitario en Ingeniería de Telecomunicación, Supervisors: Roberto Daza García, 2026.
+
 - Alejandra Parés Rodríguez: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Laura Pedrouzo-Rodriguez, 2025-Ongoing.
 
 - Laura Pedrouzo-Rodriguez: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, 2025-Ongoing.
