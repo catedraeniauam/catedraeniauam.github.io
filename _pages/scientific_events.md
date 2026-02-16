@@ -8,6 +8,8 @@ author_profile: false
 Keynotes / Scientific Talks / Roundtables
 -----
 
+- Nahuel González: Scientific Talk in the topic of “Funciones de coste en biometría comportamental con aprendizaje profundo”, *Escuela Politécnica Superior, Universidad Autónoma de Madrid (UAM)*, Madrid, Spain, February 2026. <a href="https://www.uam.es/eps/inicio">[Web]</a>
+
 - Ruben Tolosana: Keynote in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>, Madrid, Spain, July 2025.
 
 - Julian Fierrez: Participates in the “Business-Technology Roundtable” at the Intersectoral Forum for the Regulation of Digital Real Identity, organized by <a href="https://fundacionhermes.org/en-gb/fundacion-hermes-eng/">Fundación Hermes</a>, Madrid, Spain, May 2025.
@@ -53,7 +55,7 @@ Competition Organizer
 Technical Training for Companies
 -----
 
-- Julian Fierrez and Ruben Tolosana: "Improving Biometrics through Synthetic Data”, Veridas company, 16 January 2026.
+- Julian Fierrez and Ruben Tolosana: “Improving Biometrics through Synthetic Data”, Veridas company, 16 January 2026.
 
 - Laura Pedrouzo-Rodriguez, Marta Robledo-Moreno, Miguel Lopez-Duran, Javier Irigoyen, Luis F. Gomez: “Cátedra ENIA: Advances in AI Research”, Veridas company, 24 October 2025. [Web]
 
