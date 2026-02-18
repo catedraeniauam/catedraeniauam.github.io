@@ -8,6 +8,8 @@ author_profile: false
 Keynotes / Scientific Talks / Roundtables
 -----
 
+- Javier Ortega-Garcia: Participates in the “<a href="https://eventos.uam.es/143394/detail/debatesuam-seguridad-estrategica.html">Debate UAM Seguridad Estratégica</a>” at Universidad Autonoma de Madrid, Spain, February 2026.
+
 - Nahuel González: Scientific Talk in the topic of “Funciones de coste en biometría comportamental con aprendizaje profundo”, *Escuela Politécnica Superior, Universidad Autónoma de Madrid (UAM)*, Madrid, Spain, February 2026. <a href="https://www.uam.es/eps/inicio">[Web]</a>
 
 - Ruben Tolosana: Keynote in the topic of “Synthetic Data and Foundation Models: Challenges and Opportunities in Security Applications” at <a href="https://iccida.net/index.html">4th International Conference on Computing, IoT and Data Analytics (ICCIDA 2025)</a>, Madrid, Spain, July 2025.
