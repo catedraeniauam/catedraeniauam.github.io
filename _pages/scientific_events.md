@@ -62,6 +62,10 @@ Competition Organizer
 Technical Training for Companies
 -----
 
+- Ivan Ioel de Andres: “Reconocimiento de Personas en la Era de los Modelos Generativos”, Veridas company, 5 February 2026.
+
+- Daniel de Alcala: “AIdoc:A Framework for Generating and Identifying AI-Edited Documents”, Veridas company, 5 February 2026.
+
 - Julian Fierrez and Ruben Tolosana: “Improving Biometrics through Synthetic Data”, Veridas company, 16 January 2026.
 
 - Laura Pedrouzo-Rodriguez, Marta Robledo-Moreno, Miguel Lopez-Duran, Javier Irigoyen, Luis F. Gomez: “Cátedra ENIA: Advances in AI Research”, Veridas company, 24 October 2025. [Web]
