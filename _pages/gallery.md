@@ -5,6 +5,12 @@ permalink: /gallery/
 author_profile: true
 ---
 
+PhD Thesis Defense, Universidad Autonoma de Madrid, Spain (February 2026)
+-----
+- <a href="https://scholar.google.com/citations?user=fjh1KJUAAAAJ&hl=en">Sergio Romero-Tapiador</a> defended his PhD Thesis entitled “Artificial Intelligence and Wearable Devices for Digital Healthcare” on February 20, 2026. Advisors: <a href="https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en">Ruben Tolosana</a> and <a href="https://scholar.google.es/citations?user=yRP16B4AAAAJ&hl=en">Aythami Morales</a>. 
+
+<img src="https://catedraeniauam.github.io/images/defensa_sergio_romero.jpg" align="center" width="1000"/>
+
 Best Young Researchers Award (2024), Universidad Autonoma de Madrid, Spain (December 2025)
 -----
 - Ruben Tolosana received the <a href="https://www.uam.es/uam/noticias/entrega-diplomas-premios-jovenes-investigadores-2025">“Best Young Researchers Award (2024)”</a> from the <a href="https://www.uam.es/uam/inicio">Universidad Autonoma de Madrid</a>. This award recognises and makes visible the work of young researchers at the UAM for their contribution to scientific development, as well as their national and international visibility as a leading research center.

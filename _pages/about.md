@@ -64,6 +64,8 @@ Description
 News 
 ======
 
+- **February, 2026**: <a href="https://scholar.google.com/citations?user=fjh1KJUAAAAJ&hl=en">Sergio Romero-Tapiador</a> defended his PhD Thesis entitled “Artificial Intelligence and Wearable Devices for Digital Healthcare” on February 20, 2026. Advisors: <a href="https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en">Ruben Tolosana</a> and <a href="https://scholar.google.es/citations?user=yRP16B4AAAAJ&hl=en">Aythami Morales</a>.
+
 - **February, 2026**: Ruben Tolosana is the Publicity Chair of <a href="https://biosig.de/">The 25th International Conference of the Biometrics Special Interest Group (BIOSIG)</a>. The conference will take place at Darmstadt (Germany), 25-26 November 2026.
 
 - **January, 2026**: Co-Organizer of the Workshop <a href="https://sites.google.com/view/trustfa-fg2026/home">From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026)</a> at the <a href="https://fg2026.ieee-biometrics.org/">IEEE Automatic Face and Gesture Recognition Conference (FG 2026)</a>.
