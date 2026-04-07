@@ -8,19 +8,21 @@ author_profile: true
 Journal Articles
 -----
 
+- I. Solano, J. Fierrez, A. Morales, A. Peña, R. Tolosana, F. Zamora-Martinez, J. San Agustin. <a href="https://arxiv.org/abs/2506.10564">Balancing Tails when Comparing Distributions: Comprehensive Equity Index (CEI) with Application to Bias Evaluation in Operational Face Biometrics</a>. *Pattern Recognition*, 2026.
+
+- S.M. La Cava , R. Casula , S. Concas , G. Orrù , R. Tolosana, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://arxiv.org/abs/2504.18886">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. Array, 2026.
+
 - B. Biesseck, P. Vidal, L. Coelho, R. Granada, R. Tolosana, D. Menotti. <a href="https://ieeexplore.ieee.org/abstract/document/11345108">Are Synthetic Data As Good As Real Data For Recognizing Doppelgängers and Twins Faces?</a>. *IEEE Access*, 2026.
 
-- S. Romero-Tapiador, R. Tolosana, A. Morales, B. Lacruz-Pleguezuelos, S. Bosch Pastor, L.J. Marcos-Zambrano, G.X. Bazán, G. Freixer, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, I. Espinosa-Salinas, E. Carrillo de Santa Pau. <a href="https://arxiv.org/abs/2409.08700">Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence</a>. *Computers in Biology and Medicine*, minor revision.
+- J. Muñoz-Haro, R. Tolosana, J. Fierrez, R. Vera-Rodriguez, A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S1566253525010310">Privacy-Aware Detection of Fake Identity Documents: Methodology, Benchmark, and Improved Algorithms (FakeIDet2)</a>. *Information Fusion*, 2026.
 
-- I. Solano, J. Fierrez, A. Morales, A. Peña, R. Tolosana, F. Zamora-Martinez, J. San Agustin. <a href="https://arxiv.org/abs/2506.10564">Balancing Tails when Comparing Distributions: Comprehensive Equity Index (CEI) with Application to Bias Evaluation in Operational Face Biometrics</a>. *Pattern Recognition*, minor revision.
+- S. Romero-Tapiador, R. Tolosana, A. Morales, B. Lacruz-Pleguezuelos, S. Bosch Pastor, L.J. Marcos-Zambrano, G.X. Bazán, G. Freixer, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, I. Espinosa-Salinas, E. Carrillo de Santa Pau. <a href="https://arxiv.org/abs/2409.08700">Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence</a>. *Computers in Biology and Medicine*, minor revision.
 
 - S. Romero-Tapiador, P. Rodriguez-Mier, M. Garrido-Rodriguez, R. Tolosana, A. Morales, J. Saez-Rodriguez. <a href="https://www.biorxiv.org/content/10.1101/2025.09.08.674873v1.abstract">ScAPE: A lightweight multitask learning baseline method to predict transcriptomic responses to perturbations</a>. *Bioinformatics*, under review.
 
 - P. Melzi, H. Otroshi Shahreza, C. Rathgeb, R. Tolosana, R. Vera-Rodriguez, J. Fierrez, S. Marcel, C. Busch. <a href="https://ieeexplore.ieee.org/abstract/document/11086598">Cancelable Biometrics with Soft-biometric Privacy Enhancement</a>. *IEEE Access*, 2025.
 
-- H. Otroshi Shahreza, P. Melzi, D. Osorio-Roig, C. Rathgeb, C. Busch, S. Marcel, R. Tolosana, R. Vera-Rodriguez. <a href="https://arxiv.org/abs/2302.13286">Benchmarking of Cancelable Biometrics for Deep Templates</a>. *EURASIP Journal on Image and Video Processing*, 2025.
-
-- J. Muñoz-Haro, R. Tolosana, J. Fierrez, R. Vera-Rodriguez, A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S1566253525010310">Privacy-Aware Detection of Fake Identity Documents: Methodology, Benchmark, and Improved Algorithms (FakeIDet2)</a>. *Information Fusion*, 2025.
+- H. Otroshi Shahreza, P. Melzi, D. Osorio-Roig, C. Rathgeb, C. Busch, S. Marcel, R. Tolosana, R. Vera-Rodriguez. <a href="https://link.springer.com/article/10.1186/s13640-025-00679-y">Benchmarking of Cancelable Biometrics for Deep Templates</a>. *EURASIP Journal on Image and Video Processing*, 2025.
 
 - I. DeAndres-Tame, R. Tolosana, P. Melzi, R. Vera-Rodriguez, M. Kim, C. Rathgeb, X. Liu, L.F. Gomez, A. Morales, J. Fierrez, J. Ortega-Garcia, Z. Zhong, Y. Huang, Y. Mi, S. Ding, S. Zhou, S. He, L. Fu, H. Cong, R. Zhang, Z. Xiao, E. Smirnov, A. Pimenov, A. Grigorev, D. Timoshenko, K.M. Asfaw, C.Y. Low, H. Liu, C. Wang, Q. Zuo, Z. He, H.O. Shahreza, A. George, A. Unnervik, P. Rahimi, S. Marcel, P.C. Neto, M. Huber, J.N. Kolf, N. Damer, F. Boutros, J.S. Cardoso, A.F. Sequeira, A. Atzori, G. Fenu, M. Marras, V. Štruc, J. Yu, Z. Li, J. Li, W. Zhao, Z. Lei, X. Zhu, X.-Y. Zhang, B. Biesseck, P. Vidal, L. Coelho, R. Granada and D. Menotti. <a href="https://doi.org/10.1016/j.inffus.2025.103099" target="_blank">Second FRCSyn-onGoing: Winning Solutions and Post-Challenge Analysis to Improve Face Recognition with Synthetic Data</a>. *Information Fusion*, 2025.
 
@@ -45,15 +47,15 @@ Journal Articles
 Conference Papers
 -----
 
+- I. DeAndres-Tame, C. Ye, R. Tolosana, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. in *Proc. IAPR International Conference on Pattern Recognition* Lyon, France, August 2026.
+
 - P. Jimenez-Lizcano, S. Romero-Tapiador, R. Tolosana, A. Morales, G.G. de Rivera, R. Vera-Rodriguez, J. Fierrez. <a href="https://arxiv.org/abs/2603.08235">Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, 2026.
 
-- D. Jimenez Oviedo, R. Vera-Rodriguez, R. Tolosana, J. Carlos Ruiz-Garcia, J. Herreros-Rodriguez. <a href="">Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, 2026.
+- D. Jimenez Oviedo, R. Vera-Rodriguez, R. Tolosana, J. Carlos Ruiz-Garcia, J. Herreros-Rodriguez. <a href="https://arxiv.org/abs/2603.25673">Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, 2026.
 
 - G. Mancera Fernandez, D. DeAlcala, R. Tolosana, J. Fierrez, A. Morales. <a href="https://arxiv.org/abs/2503.07384">Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, 2026.
 
 - J. Irigoyen, R. Daza, A. Morales, J. Fierrez, F. Jurado, A. Ortigosa, R. Tolosana. <a href="https://arxiv.org/abs/2602.15531">EduEVAL-DB: A Role-Based Dataset for Pedagogical Risk Evaluation in Educational Explanations</a>. in *Proc. the 16th International Learning Analytics & Knowledge Conference*, Bergen, Norway, 2026.
-
-- I. DeAndres-Tame, C. Ye, R. Tolosana, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. Under Review.
 
 - M. Lopez-Duran, J. Fierrez, A. Morales, D. DeAlcala, G. Mancera, J. Irigoyen, R. Tolosana, O. Delgado, F. Jurado, A. Ortigosa. <a href="https://arxiv.org/abs/2603.02150">Zero-and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)</a>. Under Review.
 
