@@ -10,7 +10,7 @@ Journal Articles
 
 - I. Solano, J. Fierrez, A. Morales, A. Peña, R. Tolosana, F. Zamora-Martinez, J. San Agustin. <a href="https://www.sciencedirect.com/science/article/pii/S0031320326005819">Balancing Tails when Comparing Distributions: Comprehensive Equity Index (CEI) with Application to Bias Evaluation in Operational Face Biometrics</a>. *Pattern Recognition*, 2026.
 
-- S.M. La Cava , R. Casula , S. Concas , G. Orrù , R. Tolosana, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://arxiv.org/abs/2504.18886">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. Array, 2026.
+- S.M. La Cava , R. Casula , S. Concas , G. Orrù , R. Tolosana, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://arxiv.org/abs/2504.18886">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. *Array*, 2026.
 
 - B. Biesseck, P. Vidal, L. Coelho, R. Granada, R. Tolosana, D. Menotti. <a href="https://ieeexplore.ieee.org/abstract/document/11345108">Are Synthetic Data As Good As Real Data For Recognizing Doppelgängers and Twins Faces?</a>. *IEEE Access*, 2026.
 
@@ -61,7 +61,7 @@ Conference Papers
 
 - P. Korshunov, Vidit, A. Mohammadi, C. Ecabert, N. Shamoska, S. Marcel, Z. Yu, Y. Tian, J. Ni, L. Lazarevic, R. Khizbullin, A. Evteeva, A. Tochin, A. Grishin, A. George, D. DeAlcala, T. Endrei, J. Munoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, G. Cserey, H. Sharma, S. Chaudhary, A. Dudhane, P. Hambarde, A. Shukla, P. Shaily, J. Kumar, A. Hase, S. Maurya, M. Sharma and P. Dwivedi. <a href="https://publications.idiap.ch/attachments/papers/2025/Korshunov_ICCV_2025.pdf">"DeepID Challenge of Detecting Synthetic Manipulations in ID Documents"</a>. In *Proc. IEEE International Conference on Computer Vision Workshops, ICCVw*, 2025. **(Second in Track 2 and Fourth in Track 1 of the Challenge)**
 
-- P. Korshunov, V. Vidit, A. Mohammadi, C. Ecabert, N. Shamoska, S. Marcel, Z. Yu, Y. Tian, J. Ni, L. Lazarevic, R. Khizbullin, A. Evteeva, A. Tochin, A. Grishin, A. George, D. Dealcala, T. Endrei, J. Muñoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, G. Cserey, H. Sharma, S. Chaudhary, A. Dudhane, P. Hambarde, A. Shukla, P. Shaily, J. Kumar, A. Hase, S. Maurya and M. Sharma, P. Dwivedi. <a href="https://openaccess.thecvf.com/ICCV2025_workshops/DeepID">The Challenge of Detecting Synthetic Manipulations in ID Documents</a>. in Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw, Honolulu, Hawaii, 2025.
+- P. Korshunov, V. Vidit, A. Mohammadi, C. Ecabert, N. Shamoska, S. Marcel, Z. Yu, Y. Tian, J. Ni, L. Lazarevic, R. Khizbullin, A. Evteeva, A. Tochin, A. Grishin, A. George, D. Dealcala, T. Endrei, J. Muñoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, G. Cserey, H. Sharma, S. Chaudhary, A. Dudhane, P. Hambarde, A. Shukla, P. Shaily, J. Kumar, A. Hase, S. Maurya and M. Sharma, P. Dwivedi. <a href="https://openaccess.thecvf.com/ICCV2025_workshops/DeepID">The Challenge of Detecting Synthetic Manipulations in ID Documents</a>. in *Proc. IEEE/CVF Intenational Conference on Computer Vision Workshops, ICCVw*, Honolulu, Hawaii, 2025.
 
 - A. Peña, J. Fierrez, A. Morales, G. Mancera, M. Lopez-Duran, R. Tolosana. <a href="https://ojs.aaai.org/index.php/AIES/article/view/36689">Addressing Bias in LLMs: Strategies and Application to Fair AI-based Recruitment</a>. in *Proc. AAAI/ACM Conf. on AI, Ethics, and Society, AIES*, Madrid, Spain, 2025.
 
