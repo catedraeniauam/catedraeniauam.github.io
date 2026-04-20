@@ -10,17 +10,17 @@ Journal Articles
 
 - I. Solano, J. Fierrez, A. Morales, A. Peña, R. Tolosana, F. Zamora-Martinez, J. San Agustin. <a href="https://www.sciencedirect.com/science/article/pii/S0031320326005819">Balancing Tails when Comparing Distributions: Comprehensive Equity Index (CEI) with Application to Bias Evaluation in Operational Face Biometrics</a>. *Pattern Recognition*, 2026.
 
-- S.M. La Cava , R. Casula , S. Concas , G. Orrù , R. Tolosana, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://arxiv.org/abs/2504.18886">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. *Array*, 2026.
+- S.M. La Cava , R. Casula , S. Concas , G. Orrù , R. Tolosana, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://www.sciencedirect.com/science/article/pii/S2590005626001177">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. *Array*, 2026.
 
 - B. Biesseck, P. Vidal, L. Coelho, R. Granada, R. Tolosana, D. Menotti. <a href="https://ieeexplore.ieee.org/abstract/document/11345108">Are Synthetic Data As Good As Real Data For Recognizing Doppelgängers and Twins Faces?</a>. *IEEE Access*, 2026.
 
 - J. Muñoz-Haro, R. Tolosana, J. Fierrez, R. Vera-Rodriguez, A. Morales. <a href="https://www.sciencedirect.com/science/article/pii/S1566253525010310">Privacy-Aware Detection of Fake Identity Documents: Methodology, Benchmark, and Improved Algorithms (FakeIDet2)</a>. *Information Fusion*, 2026.
 
-- S. Romero-Tapiador, R. Tolosana, A. Morales, B. Lacruz-Pleguezuelos, S. Bosch Pastor, L.J. Marcos-Zambrano, G.X. Bazán, G. Freixer, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, I. Espinosa-Salinas, E. Carrillo de Santa Pau. <a href="https://arxiv.org/abs/2409.08700">Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence</a>. *Computers in Biology and Medicine*, minor revision.
+- S. Romero-Tapiador, R. Tolosana, A. Morales, B. Lacruz-Pleguezuelos, S. Bosch Pastor, L.J. Marcos-Zambrano, G.X. Bazán, G. Freixer, R. Vera-Rodriguez, J. Fierrez, J. Ortega-Garcia, I. Espinosa-Salinas, E. Carrillo de Santa Pau. <a href="https://www.sciencedirect.com/science/article/pii/S0010482526002404">Personalized Weight Loss Management through Wearable Devices and Artificial Intelligence</a>. *Computers in Biology and Medicine*, 2026.
 
 - S. Romero-Tapiador, P. Rodriguez-Mier, M. Garrido-Rodriguez, R. Tolosana, A. Morales, J. Saez-Rodriguez. <a href="https://www.biorxiv.org/content/10.1101/2025.09.08.674873v1.abstract">ScAPE: A lightweight multitask learning baseline method to predict transcriptomic responses to perturbations</a>. *Bioinformatics*, under review.
 
-- P. Melzi, H. Otroshi Shahreza, C. Rathgeb, R. Tolosana, R. Vera-Rodriguez, J. Fierrez, S. Marcel, C. Busch. <a href="https://ieeexplore.ieee.org/abstract/document/11086598">Cancelable Biometrics with Soft-biometric Privacy Enhancement</a>. *IEEE Access*, 2025.
+- P. Melzi, H. Otroshi Shahreza, C. Rathgeb, R. Tolosana, R. Vera-Rodriguez, J. Fierrez, S. Marcel, C. Busch. <a href="https://ieeexplore.ieee.org/abstract/document/11086598">Cancelable Face Biometrics with Soft-biometric Privacy Enhancement</a>. *IEEE Access*, 2025.
 
 - H. Otroshi Shahreza, P. Melzi, D. Osorio-Roig, C. Rathgeb, C. Busch, S. Marcel, R. Tolosana, R. Vera-Rodriguez. <a href="https://link.springer.com/article/10.1186/s13640-025-00679-y">Benchmarking of Cancelable Biometrics for Deep Templates</a>. *EURASIP Journal on Image and Video Processing*, 2025.
 
