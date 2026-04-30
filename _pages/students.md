@@ -16,16 +16,18 @@ PhD Students
 
 - Marta Robledo-Moreno: “Biometric Systems in the Era of Smart Devices: Advances in Data Fusion and Artificial Ingelligence”, Supervisors: Ruben Vera-Rodriguez and Javier Ortega-Garcia, 2024-Ongoing.
 
-- Javier Irigoyen: “”, Supervisors: Julian Fierrez and …., 2024-Ongoing.
+- Javier Irigoyen: “Integración Multimodal de Modelos de Aprendizaje Automático en Dominios Expertos: Aplicaciones, Riesgos y Estrategias de Seguridad”, Supervisors: Julian Fierrez and …., 2024-Ongoing.
 
-- Imanol Solano: “”, Supervisors: Julian Fierrez and …., 2023-Ongoing.
+- Imanol Solano: “Investigación y desarrollo de sistemas robustos de biometría periocular con capacidad de detección de ataques de presentación y DeepFakes”, Supervisors: Julian Fierrez and …., 2023-Ongoing.
 
 M.Sc. Students
 -----
 
+- Elena Marrero Castellano: "Domain Adaptation Techniques for Vision Language Models applied to Document Visual Question Answering", Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Miguel Lopez-Duran, 2026-Ongoing
+
 - Iván López Sánchez: “Análisis de Interacciones entre Humanos y Agentes Artificiales mediante Biometría y Comportamiento: Aplicación a Juegos Sociales”, Máster Universitario en Ingeniería de Telecomunicación, Supervisors: Roberto Daza García, 2026.
 
-- Alejandra Parés Rodríguez: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Laura Pedrouzo-Rodriguez, 2025-Ongoing.
+- Alejandra Parés Rodríguez: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, 2025-Ongoing.
 
 - Laura Pedrouzo-Rodriguez: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, 2025-Ongoing.
 

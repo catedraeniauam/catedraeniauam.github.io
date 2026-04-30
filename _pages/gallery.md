@@ -7,6 +7,12 @@ author_profile: true
 
 PhD Thesis Defense, Universidad Autonoma de Madrid, Spain (February 2026)
 -----
+- Presenting our research paper “Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study” at <a href="https://iwbf2026.github.io/index.html">IEEE International Workshop on Biometrics and Forensics (IWBF 2026)</a>.
+
+<img src="https://catedraeniauam.github.io/images/marta_iwbf26.jpg" align="center" width="1000"/>
+
+PhD Thesis Defense, Universidad Autonoma de Madrid, Spain (February 2026)
+-----
 - <a href="https://scholar.google.com/citations?user=fjh1KJUAAAAJ&hl=en">Sergio Romero-Tapiador</a> defended his PhD Thesis entitled “Artificial Intelligence and Wearable Devices for Digital Healthcare” on February 20, 2026. Advisors: <a href="https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en">Ruben Tolosana</a> and <a href="https://scholar.google.es/citations?user=yRP16B4AAAAJ&hl=en">Aythami Morales</a>. 
 
 <img src="https://catedraeniauam.github.io/images/defensa_sergio_romero.jpg" align="center" width="1000"/>
