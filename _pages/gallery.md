@@ -5,7 +5,13 @@ permalink: /gallery/
 author_profile: true
 ---
 
-PhD Thesis Defense, Universidad Autonoma de Madrid, Spain (February 2026)
+IEEE CAIw 2026, Granada, Spain (May 2026)
+-----
+- Presenting our research and technology at <a href="https://www.ieeesmc.org/cai-2026/">IEEE Conference on Artificial Intelligence Workshops</a>. We got three papers accepted: <a href="https://arxiv.org/abs/2603.08235">"Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema"</a>, <a href="https://arxiv.org/abs/2603.25673">"Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening"</a>, and <a href="https://arxiv.org/abs/2503.07384">"Is My Text in Your AI Model? Gradient-based Membership Inference Test applied to LLMs"</a>.
+
+<img src="https://catedraeniauam.github.io/images/iee_cai_2026.jpg" align="center" width="1000"/>
+
+ENIA eso que te marco por: IWBF 2026, Côte d’Azur, France (April 2026)
 -----
 - Presenting our research paper “Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study” at <a href="https://iwbf2026.github.io/index.html">IEEE International Workshop on Biometrics and Forensics (IWBF 2026)</a>.
 

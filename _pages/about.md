@@ -64,6 +64,8 @@ Description
 News 
 ======
 
+- **May, 2026**: Three papers accepted in different workshops of <a href="https://www.ieeesmc.org/cai-2026/">IEEE CAI 2026</a>. Topics: <a href="https://arxiv.org/abs/2603.08235">Diabetic Retinopathy Detection</a>, <a href="https://arxiv.org/abs/2603.25673">Computer Child Interaction</a>, and <a href="https://arxiv.org/abs/2503.07384">Membership Inference Attacks</a>.
+
 - **April, 2026**:  Our paper “Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study” was presented at <a href="https://iwbf2026.github.io/index.html">IEEE International Workshop on Biometrics and Forensics (IWBF 2026)</a>, Côte d’Azur, EURECOM, France.
 
 - **February, 2026**: <a href="https://scholar.google.com/citations?user=fjh1KJUAAAAJ&hl=en">Sergio Romero-Tapiador</a> defended his PhD Thesis entitled “Artificial Intelligence and Wearable Devices for Digital Healthcare” on February 20, 2026. Advisors: <a href="https://scholar.google.es/citations?user=UHT4WGAAAAAJ&hl=en">Ruben Tolosana</a> and <a href="https://scholar.google.es/citations?user=yRP16B4AAAAJ&hl=en">Aythami Morales</a>.
