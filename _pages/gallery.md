@@ -11,7 +11,7 @@ IEEE CAIw 2026, Granada, Spain (May 2026)
 
 <img src="https://catedraeniauam.github.io/images/iee_cai_2026.jpg" align="center" width="1000"/>
 
-ENIA eso que te marco por: IWBF 2026, Côte d’Azur, France (April 2026)
+IWBF 2026, Côte d’Azur, France (April 2026)
 -----
 - Presenting our research paper “Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study” at <a href="https://iwbf2026.github.io/index.html">IEEE International Workshop on Biometrics and Forensics (IWBF 2026)</a>.
 
