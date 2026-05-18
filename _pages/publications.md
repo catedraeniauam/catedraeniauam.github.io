@@ -47,7 +47,9 @@ Journal Articles
 Conference Papers
 -----
 
-- I. DeAndres-Tame, C. Ye, R. Tolosana, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. in *Proc. IAPR International Conference on Pattern Recognition* Lyon, France, August 2026.
+- I. DeAndres-Tame, C. Ye, R. Tolosana, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. in *Proc. IAPR International Conference on Pattern Recognition*, Lyon, France, August 2026.
+
+- M. Robledo-Moreno, R. Vera-Rodriguez, R. Tolosana, J. Ortega-Garcia. <a href="https://arxiv.org/abs/2605.14845">Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study</a>. In *Proc. International Workshop on Biometrics and Forensics*, Côte d’Azur, France, April 2026.
 
 - P. Jimenez-Lizcano, S. Romero-Tapiador, R. Tolosana, A. Morales, G.G. de Rivera, R. Vera-Rodriguez, J. Fierrez. <a href="https://arxiv.org/abs/2603.08235">Exploring Deep Learning and Ultra-Widefield Imaging for Diabetic Retinopathy and Macular Edema</a>. in *Proc. IEEE Conference on Artificial Intelligence*, Granada, Spain, 2026.
 

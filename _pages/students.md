@@ -23,6 +23,10 @@ PhD Students
 M.Sc. Students
 -----
 
+- Daniel Igualada González: "Verificación de la Identidad Mediante la Marcha Humana en Dispositivos Móviles", Máster Universitario en Ingeniería de Telecomunicación, Supervisors: Marta Robledo-Moreno, 2026-Ongoing.
+
+- Marina Jiménez Cuesta: "Generation of Synthetic Dynamic Handwritting for Biometric Recognition", Supervisors: Marta Robledo-Moreno and Ruben Vera-Rodríguez, 2026-Ongoing.
+
 - Elena Marrero Castellano: "Domain Adaptation Techniques for Vision Language Models applied to Document Visual Question Answering", Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Miguel Lopez-Duran, 2026-Ongoing
 
 - Iván López Sánchez: “Análisis de Interacciones entre Humanos y Agentes Artificiales mediante Biometría y Comportamiento: Aplicación a Juegos Sociales”, Máster Universitario en Ingeniería de Telecomunicación, Supervisors: Roberto Daza García, 2026.
