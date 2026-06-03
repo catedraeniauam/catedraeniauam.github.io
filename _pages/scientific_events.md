@@ -59,7 +59,7 @@ Competition Organizer
 
 - 1st Edition FRCSyn: Face Recognition Challenge in the Era of Synthetic Data at the *IEEE/CVF Winter Conf. on Applications of Computer Vision, WACV 2024*, Waikoloa, Hawaii, January 2024. <a href="https://codalab.lisn.upsaclay.fr/competitions/15485">[Web]</a>
 
-Technical Training for Companies
+Research Seminars and Technical Training
 -----
 
 - Miguel Lopez-Duran: “Graph Machine Learning applied to Document Analysis and Cybersecurity”, Universidad Autónoma de Madrid, 11 June 2026.
