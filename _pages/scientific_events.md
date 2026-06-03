@@ -62,6 +62,16 @@ Competition Organizer
 Technical Training for Companies
 -----
 
+- Miguel Lopez-Duran: “Graph Machine Learning applied to Document Analysis and Cybersecurity”, Universidad Autónoma de Madrid, 11 June 2026.
+
+- Javier Irigoyen Muñoz: “Multimodal Integration of Machine Learning Models in Expert Domains: Applications, Risks, and Security Strategies”, Universidad Autónoma de Madrid, 11 June 2026.
+
+- Laura Pedrouzo-Rodriguez: “Photorealistic Avatars: From Generation to Authentication”, Universidad Autónoma de Madrid, 3 June 2026.
+
+- Javier Muñoz-Haro: “Generative AI and Synthetic Data: New Approaches to Improve the Performance and Robustness of Security Systems”, Universidad Autónoma de Madrid, 3 June 2026.
+
+- Marta Robledo-Moreno: “Biometric Systems in the Era of Smart Devices: Advances in Data Fusion and Artificial Intelligence”, Universidad Autónoma de Madrid, 3 June 2026.
+
 - Ivan Ioel de Andres: “Reconocimiento de Personas en la Era de los Modelos Generativos”, Veridas company, 5 February 2026.
 
 - Daniel de Alcala: “AIdoc:A Framework for Generating and Identifying AI-Edited Documents”, Veridas company, 5 February 2026.
