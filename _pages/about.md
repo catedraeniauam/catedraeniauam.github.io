@@ -64,7 +64,7 @@ Description
 News 
 ======
 
-- **June 2026**: Our five PhD ENIA Students have presented their research contributions and publications at Universidad Autonoma de Madrid: <a href="https://scholar.google.com/citations?user=xYLElMkAAAAJ&hl=en">Laura Pedrouzo-Rodriguez</a>, <a href="https://scholar.google.com/citations?user=thSi0EoAAAAJ&hl=en&oi=ao">Javier Muñoz-Haro</a>, <a href="https://scholar.google.com/citations?user=tGNzY0EAAAAJ&hl=en">Miguel Lopez-Duran</a>, <a href="https://scholar.google.com/citations?user=3rjxsSYAAAAJ&hl=en">Marta Robledo-Moreno</a> and <a href="https://scholar.google.com/citations?hl=es&user=c-F982gAAAAJ">Javier Irigoyen-Muñoz</a>. 
+- **June 2026**: Our five PhD ENIA Students have presented their research contributions and publications at Universidad Autonoma de Madrid: <a href="https://scholar.google.com/citations?user=xYLElMkAAAAJ&hl=en">Laura Pedrouzo-Rodriguez</a>, <a href="https://scholar.google.com/citations?user=thSi0EoAAAAJ&hl=en&oi=ao">Javier Muñoz-Haro</a>, <a href="https://scholar.google.com/citations?user=tGNzY0EAAAAJ&hl=en">Miguel Lopez-Duran</a>, <a href="https://scholar.google.com/citations?user=3rjxsSYAAAAJ&hl=en">Marta Robledo-Moreno</a> and <a href="https://scholar.google.com/citations?hl=es&user=c-F982gAAAAJ">Javier Irigoyen-Muñoz</a>.
 
 - **May, 2026**: Three papers accepted in different workshops of <a href="https://www.ieeesmc.org/cai-2026/">IEEE CAI 2026</a>. Topics: <a href="https://arxiv.org/abs/2603.08235">Diabetic Retinopathy Detection</a>, <a href="https://arxiv.org/abs/2603.25673">Computer Child Interaction</a>, and <a href="https://arxiv.org/abs/2503.07384">Membership Inference Attacks</a>.
 
