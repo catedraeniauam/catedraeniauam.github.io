@@ -16,45 +16,51 @@ PhD Students
 
 - Marta Robledo-Moreno: “Biometric Systems in the Era of Smart Devices: Advances in Data Fusion and Artificial Intelligence”, Supervisors: Ruben Vera-Rodriguez and Javier Ortega-Garcia, 2024-Ongoing.
 
-- Javier Irigoyen: “Integración Multimodal de Modelos de Aprendizaje Automático en Dominios Expertos: Aplicaciones, Riesgos y Estrategias de Seguridad”, Supervisors: Julian Fierrez and …., 2024-Ongoing.
+- Javier Irigoyen: “Multimodal Integration of Machine Learning Models in Expert Domains: Applications, Risks, and Security Strategies”, Supervisors: Julian Fierrez and …., 2024-Ongoing.
 
-- Imanol Solano: “Investigación y desarrollo de sistemas robustos de biometría periocular con capacidad de detección de ataques de presentación y DeepFakes”, Supervisors: Julian Fierrez and …., 2023-Ongoing.
+- Imanol Solano: “Research and development of robust periocular biometric systems with the ability to detect presentation attacks and DeepFakes”, Supervisors: Julian Fierrez and …., 2023-Ongoing.
 
 M.Sc. Students
 -----
 
-- Daniel Igualada González: "Verificación de la Identidad Mediante la Marcha Humana en Dispositivos Móviles", Máster Universitario en Ingeniería de Telecomunicación, Supervisors: Marta Robledo-Moreno, 2026-Ongoing.
+- Pablo Lozano Jimenez: "Automatic PET/TC cancer lesion segmentation using clinical interactive supervision", University of Amsterdam (Netherlands), Supervisors: Ruben Tolosana and Sergio Romero-Tapiador, 2026
 
-- Marina Jiménez Cuesta: "Generation of Synthetic Dynamic Handwritting for Biometric Recognition", Supervisors: Marta Robledo-Moreno and Ruben Vera-Rodríguez, 2026-Ongoing.
+- Daniel Igualada González: “Identity Verification Using Human Gait on Mobile Devices”, Master's Degree in Telecommunication Engineering, Supervisor: Marta Robledo-Moreno, 2026-Ongoing.
 
-- Elena Marrero Castellano: "Domain Adaptation Techniques for Vision Language Models applied to Document Visual Question Answering", Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Miguel Lopez-Duran, 2026-Ongoing
+- Marina Jiménez Cuesta: “Generation of Synthetic Dynamic Handwritting for Biometric Recognition”, Master's Degree in Data Science, Supervisor: Marta Robledo-Moreno and Ruben Vera-Rodríguez, 2026-Ongoing.
 
-- Iván López Sánchez: “Análisis de Interacciones entre Humanos y Agentes Artificiales mediante Biometría y Comportamiento: Aplicación a Juegos Sociales”, Máster Universitario en Ingeniería de Telecomunicación, Supervisors: Roberto Daza García, 2026.
+- Elena Marrero Castellano: "Domain Adaptation Techniques for Vision Language Models applied to Document Visual Question Answering", Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisor: Miguel Lopez-Duran, 2026-Ongoing
 
-- Alejandra Parés Rodríguez: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, 2025-Ongoing.
+- Iván López Sánchez: “Analysis of Interactions between Humans and Artificial Agents using Biometrics and Behavior: Application to Social Games”, Master's Degree in Telecommunication Engineering, Supervisor: Roberto Daza García, 2026.
 
-- Laura Pedrouzo-Rodriguez: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, 2025-Ongoing.
+- Alejandra Parés Rodríguez: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisor: Ruben Tolosana, 2025-Ongoing.
 
-- Andrés Teruel Fernández: “Presentation Attack Detection on Identity Documents: Increasing the Size and Diversity of Attacks”, Master Universitario en Ciencia de Datos, Supervisors: Ruben Tolosana and Javier Muñoz-Haro, 2025-Ongoing.
+- Laura Pedrouzo-Rodriguez: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, 2025-Ongoing.
 
-- Tamás Endrei: “Aerial-Ground Person Re-Identification in Surveillance Scenarios”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, 2025.
+- Andrés Teruel Fernández: “Presentation Attack Detection on Identity Documents: Increasing the Size and Diversity of Attacks”, Master's Degree in Data Science Supervisors: Ruben Tolosana and Javier Muñoz-Haro, 2025-Ongoing.
 
-- Fernando Fernández del Cerro: “Generation of Synthetic on-line Signatures for Biometric Recognition”, Master Universitario en Ciencia de Datos, Supervisors: Ruben Vera-Rodriguez, 2025
+- Tamás Endrei: “Aerial-Ground Person Re-Identification in Surveillance Scenarios”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisor: Ruben Tolosana, 2025.
 
-- Pablo Molina Monteagudo: “Estudio sobre la filtración de identidad en modelos generativos faciales”, Master en Ingeniería de Telecomunicación, Supervisors: Aythami Morales, 2025.
+- Fernando Fernández del Cerro: “Generation of Synthetic on-line Signatures for Biometric Recognition”, Master's Degree in Data Science, Supervisor: Ruben Vera-Rodriguez, 2025
 
-- Pedro Delgado de Robles: “Exploring Identity Verification through Behavioral Patterns in Videos”, Master in Deep Learning for Audio and Video Signal Processing, Supervisors: Ruben Tolosana, 2025.
+- Pablo Molina Monteagudo: “Study on identity leakage in generative facial models”, Master's Degree in Telecommunication Engineering, Supervisor: Aythami Morales, 2025.
 
-- Rosa María Hornero Romera: “Reconocimiento biométrico de la marcha humana mediante sensores inerciales de smartphones”, Master en Ingeniería de Telecomunicación, Supervisors: Marta Robledo-Moreno, 2025.
+- Pedro Delgado de Robles: “Exploring Identity Verification through Behavioral Patterns in Videos”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisor: Ruben Tolosana, 2025.
+
+- Rosa María Hornero Romera: “Biometric Recognition of Human Gait Using Inertial Sensors in Smartphones”, Master's Degree in Telecommunication Engineering, Supervisor: Marta Robledo-Moreno, 2025.
 
 
 B.Sc. Students
 -----
 
-- Yanina Jazmín Sosa González: "Análisis exploratorio del comportamiento humano mediante seguimiento ocular y biometría facial: unestudio en el dilema del prisionero", Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación, 2026
+- María Berenjeno Correa: "Exploring the Use of Smartphone Inertial Sensors for Biometric Recognition", Bachelor's Degree in Telecommunication Engineering, Supervisor: Javier Ortega-Garcia, 2026.
 
-- Luna Charro Fernández: “Aplicación de Técnicas de Inteligencia Artificial para la Caracterización de Placas de Ateroma en Cardiopatía Isquémica Precoz”, Grado en Ingeniería Biomédica, 2025-Ongoing.
+- Iñaki de la Fuente Simón: "The Influence of Mobile Devices on Biometric Recognition Through Interaction with Mobile Devices", Bachelor's Degree in Computer Engineering, Supervisor: Rubén Vera-Rodríguez, 2026
 
-- Andrés Huergo Perea: “Reconocimiento Biométrico de Firma Aérea mediante Dispositivos Móviles”, Grado en Ingeniería de Tecnologías y Servicios de Telecomunicaciones, 2025.
+- Yanina Jazmín Sosa González: “Exploratory Analysis of Human Behavior Using Eye Tracking and Facial Biometrics: A Study in the Prisoner's Dilemma”, Bachelor's Degree in Telecommunications Engineering,Supervisor: Roberto Daza Garcia, 2026
 
-- Pablo Jiménez Lizcano: “Aplicación de Técnicas de Inteligencia Artificial para el Análisis de la Retinopatía Diabética”, Grado en Ingeniería Biomédica, 2025.
+- Luna Charro Fernández: “Application of Artificial Intelligence Techniques for the Characterization of Atheromatous Plaques in Early Ischemic Heart Disease”, Bachelor's Degree in Biomedical Engineering, Supervisor: Ruben Tolosana, 2026
+
+- Andrés Huergo Perea: “Biometric Air Signature Recognition using Mobile Devices”, Bachelor's Degree in Telecommunications Engineering, Supervisor: Ruben Vera-Rodriguez, 2025.
+
+- Pablo Jiménez Lizcano: “Application of Artificial Intelligence Techniques for the Analysis of Diabetic Retinopathy”, Bachelor's Degree in Biomedical Engineering, Supervisor: Ruben Tolosana, 2025. 
