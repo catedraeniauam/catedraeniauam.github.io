@@ -53,6 +53,10 @@ M.Sc. Students
 B.Sc. Students
 -----
 
+- Victoria Carmona Ruiz: “Academic Performance Prediction via Biometrics and Behavioral Analysis”, Bachelor’s Degree in Telecommunication Engineering, Supervisor: Roberto Daza García, 2026.
+
+- Enrique Blas Martín: “Explainable Evaluation of Pedagogical Risks in Simulated Teaching Roles using Language Models”, Bachelor’s Degree in Telecommunication Engineering, Supervisor: Roberto Daza García, 2026.
+
 - María Berenjeno Correa: "Exploring the Use of Smartphone Inertial Sensors for Biometric Recognition", Bachelor's Degree in Telecommunication Engineering, Supervisor: Javier Ortega-Garcia, 2026.
 
 - Iñaki de la Fuente Simón: "The Influence of Mobile Devices on Biometric Recognition Through Interaction with Mobile Devices", Bachelor's Degree in Computer Engineering, Supervisor: Rubén Vera-Rodríguez, 2026.
