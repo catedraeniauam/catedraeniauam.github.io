@@ -16,9 +16,9 @@ PhD Students
 
 - Marta Robledo-Moreno: “Biometric Systems in the Era of Smart Devices: Advances in Data Fusion and Artificial Intelligence”, Supervisors: Ruben Vera-Rodriguez and Javier Ortega-Garcia, 2024-Ongoing.
 
-- Javier Irigoyen: “Multimodal Integration of Machine Learning Models in Expert Domains: Applications, Risks, and Security Strategies”, Supervisors: Julian Fierrez and …., 2024-Ongoing.
+- Javier Irigoyen: “Multimodal Integration of Machine Learning Models in Expert Domains: Applications, Risks, and Security Strategies”, Supervisors: Roberto Daza García and Paco Jurado, 2024-Ongoing.
 
-- Imanol Solano: “Research and Development of Robust Periocular Biometric Systems with the Ability to Detect Presentation Attacks and DeepFakes”, Supervisors: Julian Fierrez and …., 2023-Ongoing.
+- Imanol Solano: “Research and Development of Robust Periocular Biometric Systems with the Ability to Detect Presentation Attacks and DeepFakes”, Supervisors: Julian Fierrez and Aythami Morales, 2023-Ongoing.
 
 M.Sc. Students
 -----
