@@ -38,6 +38,8 @@ Conference Organizer
 Workshop Organizer
 -----
 
+- Who is Behind the Avatar (WBA)? A Workshop and Challenge on Verifying Teleoperator Identity in Reenacted Avatar Videos at the 18th Asian Conference on Computer Vision, ACCV 2026, Osaka, Japan, December 2026. <a href="https://sites.google.com/yy.d3c.osaka-u.ac.jp/wba2026/">[Web]</a>
+
 - Workshop From Generation to Authentication: First Workshop on Trustworthy Face Avatars (TrustFA 2026) at the IEEE Automatic Face and Gesture Recognition Conference, FG 2026, Kyoto, Japan, May 2026. <a href="https://sites.google.com/view/trustfa-fg2026/home">[Web]</a>
 
 - Forum on Artificial Intelligence in Research (FAIR), La Cristalera, Madrid, Spain, April 2025. The aim of the Forum was to provide a clear overview of the key milestones, seminal works, and fundamental mechanisms that have shaped this field. <a href="https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html">[Web]</a>
@@ -54,6 +56,8 @@ Workshop Organizer
 
 Competition Organizer
 -----
+
+- Who is Behind the Avatar (WBA)? A Workshop and Challenge on Verifying Teleoperator Identity in Reenacted Avatar Videos at the 18th Asian Conference on Computer Vision, ACCV 2026, Osaka, Japan, December 2026. <a href="https://sites.google.com/yy.d3c.osaka-u.ac.jp/wba2026/">[Web]</a>
 
 - 2nd Edition FRCSyn: Face Recognition Challenge in the Era of Synthetic Data at the *IEEE/CVF Computer Vision and Pattern Recognition Conference, CVPR 2024*, Seattle, USA, June 2024. <a href="https://codalab.lisn.upsaclay.fr/competitions/16970">[Web]</a>
 
