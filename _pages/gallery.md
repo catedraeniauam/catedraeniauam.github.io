@@ -5,6 +5,13 @@ permalink: /gallery/
 author_profile: true
 ---
 
+ICPR 2026, Lyon, France (August 2026)
+-----
+
+- Presenting our research paper <a href="https://link.springer.com/chapter/10.1007/978-3-032-31666-0_14">“Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation”</a> at <a href="https://icpr2026.org/">International Conference in Pattern Recognition (ICPR 2026)</a>.
+
+<img src="https://catedraeniauam.github.io/images/Ivan_ICPR_2026.png" align="center" width="1000"/>
+
 PhD Research Seminars, Universidad Autonoma de Madrid, Spain (June 2026)
 -----
 - Our five PhD ENIA Students have presented their research contributions and publications at Universidad Autonoma de Madrid: <a href="https://scholar.google.com/citations?user=xYLElMkAAAAJ&hl=en">Laura Pedrouzo-Rodriguez</a>, <a href="https://scholar.google.com/citations?user=thSi0EoAAAAJ&hl=en&oi=ao">Javier Muñoz-Haro</a>, <a href="https://scholar.google.com/citations?user=tGNzY0EAAAAJ&hl=en">Miguel Lopez-Duran</a>, <a href="https://scholar.google.com/citations?user=3rjxsSYAAAAJ&hl=en">Marta Robledo-Moreno</a> and <a href="https://scholar.google.com/citations?hl=es&user=c-F982gAAAAJ">Javier Irigoyen-Muñoz</a>.
