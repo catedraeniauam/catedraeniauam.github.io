@@ -47,6 +47,8 @@ Journal Articles
 Conference Papers
 -----
 
+- I. DeAndres-Tame, C. Ye, R.Tolosana, R. Vera-Rodriguez, S. Yu. <a href="https://link.springer.com/chapter/10.1007/978-3-032-31666-0_14">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. in *Proc. International Conference in Pattern Recognition (ICPR)*, Lyon, France, 2026.
+
 - R. Daza, J. Irigoyen, I. López, R. Rodríguez-Carvajal, L. Gómez-Carbajo, J. Fierrez, R. Tolosana, A. Morales. <a href="https://arxiv.org/abs/2606.17793">Evaluating Social Engineering Risks in AI-based Interaction using Biometrics and a Gaming Setup</a>. in *Proc. IEEE Intl. Carnahan Conf. on Security Technology (ICCST)*, Las Palmas de Gran Canaria, Spain, 2026.
 
 - J. Irigoyen, R. Daza, A. Morales, J. Fierrez, R. Tolosana, R. Vera-Rodriguez, F. Jurado, A. Ortigosa. <a href="https://arxiv.org/abs/2607.02197">Overview of Risk Assessment and Management for Intelligent Systems under the AI Act and Beyond</a>. in *Proc. IEEE Intl. Carnahan Conf. on Security Technology (ICCST)*, Las Palmas de Gran Canaria, Spain, 2026.
