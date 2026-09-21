@@ -33,7 +33,7 @@ M.Sc. Students
 
 - Iván López Sánchez: “Analysis of Interactions between Humans and Artificial Agents Using Biometrics and Behavior: Application to Social Games”, Master's Degree in Telecommunication Engineering, Supervisor: Roberto Daza García, 2026.
 
-- Alejandra Parés Rodríguez: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisor: Ruben Tolosana, 2025-Ongoing.
+- Alejandra Parés Rodríguez: “Development of a Photorealistic Talking-Head Avatar Database for Biometric Recognition”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisor: Ruben Tolosana, 2026.
 
 - Laura Pedrouzo-Rodriguez: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, 2025-Ongoing.
 
