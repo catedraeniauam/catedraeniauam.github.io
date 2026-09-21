@@ -23,11 +23,11 @@ PhD Students
 M.Sc. Students
 -----
 
-- Pablo Lozano Jimenez: "Automatic PET/TC Cancer Lesion Segmentation Using Clinical Interactive Supervision", University of Amsterdam (Netherlands), Supervisors: Ruben Tolosana and Clarisa Sánchez Gutiérrez, 2026-Ongoing.
+- Pablo Lozano Jimenez: "Automatic PET/TC Cancer Lesion Segmentation Using Clinical Interactive Supervision", University of Amsterdam (Netherlands), Supervisors: Ruben Tolosana and Clarisa Sánchez Gutiérrez, 2026.
 
 - Daniel Igualada González: “Identity Verification Using Human Gait on Mobile Devices”, Master's Degree in Telecommunication Engineering, Supervisor: Marta Robledo-Moreno, 2026-Ongoing.
 
-- Marina Jiménez Cuesta: “Generation of Synthetic Dynamic Handwritting for Biometric Recognition”, Master's Degree in Data Science, Supervisor: Marta Robledo-Moreno and Ruben Vera-Rodríguez, 2026-Ongoing.
+- Marina Jiménez Cuesta: “Generation of Synthetic Dynamic Handwritting for Biometric Recognition”, Master's Degree in Data Science, Supervisor: Marta Robledo-Moreno and Ruben Vera-Rodríguez, 2026.
 
 - Elena Marrero Castellano: "Domain Adaptation Techniques for Vision Language Models applied to Document Visual Question Answering", Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisor: Miguel Lopez-Duran, 2026-Ongoing.
 
@@ -37,7 +37,7 @@ M.Sc. Students
 
 - Laura Pedrouzo-Rodriguez: “Biometric Recognition in Surveillance Scenarios: Exploring State-of-the-Art Methods”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisors: Ruben Tolosana and Ivan DeAndres-Tame, 2025-Ongoing.
 
-- Andrés Teruel Fernández: “Presentation Attack Detection on Identity Documents: Increasing the Size and Diversity of Attacks”, Master's Degree in Data Science, Supervisors: Ruben Tolosana and Javier Muñoz-Haro, 2025-Ongoing.
+- Andrés Teruel Fernández: “Presentation Attack Detection on Identity Documents: Increasing the Size and Diversity of Attacks”, Master's Degree in Data Science, Supervisors: Ruben Tolosana and Javier Muñoz-Haro, 2026.
 
 - Tamás Endrei: “Aerial-Ground Person Re-Identification in Surveillance Scenarios”, Master's Degree in Deep Learning for Audio and Visual Artificial Intelligence, Supervisor: Ruben Tolosana, 2025.
 
