@@ -5,6 +5,13 @@ permalink: /gallery/
 author_profile: true
 ---
 
+ICDAR 2026, Vienna, Austria (September 2026)
+-----
+
+- Presenting our research paper <a href="https://link.springer.com/chapter/10.1007/978-3-032-31666-0_14">"Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation"</a> at <a href="https://icdar2026.org/">International Conference on Document Analysis and Recognition (ICDAR 2026)</a>.
+
+<img src="https://catedraeniauam.github.io/images/icdar_2026.png" align="center" width="1000"/>
+
 ICPR 2026, Lyon, France (August 2026)
 -----
 

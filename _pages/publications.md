@@ -47,6 +47,10 @@ Journal Articles
 Conference Papers
 -----
 
+- M. Lopez-Duran, E. Marrero, J. Fierrez, M. Robledo-Moreno, R. Vera-Rodriguez, D. DeAlcala, A. Morales, R. Tolosana, O. Delgado, A. Ortigosa, J. Ortega-Garcia. <a href="https://arxiv.org/pdf/2607.07179">Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering</a>. in *Proc. International Conference in Document Analysis and Recognition (ICDAR)*, Vienna, Austria, 2026.
+ 
+- M. Lopez-Duran, J. Fierrez, A. Morales, D. DeAlcala, G. Mancera, J. Irigoyen, R. Tolosana, O. Delgado, F. Jurado, A. Ortigosa. <a href="https://arxiv.org/pdf/2603.02150">Named-entity recognition in the crime domain (CrimeNER): Case study and dataset</a>. in Proc. Iberoamerican Congress on Pattern Recognition (CIARP)*, Ciudad de México, México, 2026.
+
 - I. DeAndres-Tame, C. Ye, R.Tolosana, R. Vera-Rodriguez, S. Yu. <a href="https://link.springer.com/chapter/10.1007/978-3-032-31666-0_14">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. in *Proc. International Conference in Pattern Recognition (ICPR)*, Lyon, France, 2026.
 
 - R. Daza, J. Irigoyen, I. López, R. Rodríguez-Carvajal, L. Gómez-Carbajo, J. Fierrez, R. Tolosana, A. Morales. <a href="https://arxiv.org/abs/2606.17793">Evaluating Social Engineering Risks in AI-based Interaction using Biometrics and a Gaming Setup</a>. in *Proc. IEEE Intl. Carnahan Conf. on Security Technology (ICCST)*, Las Palmas de Gran Canaria, Spain, 2026.
