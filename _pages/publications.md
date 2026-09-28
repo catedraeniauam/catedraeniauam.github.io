@@ -59,7 +59,7 @@ Conference Papers
 
 - J. Irigoyen, R. Daza, F. Jurado, J. Fierrez, R. Tolosana, A. Ortigosa, E. Blas, A. Morales. <a href="https://arxiv.org/abs/2607.01934">AIriskEval-edu: New Dataset for Risk Assessment in AI-mediated K-12 Educational Explanations</a>. in *Proc. IEEE Intl. Carnahan Conf. on Security Technology (ICCST)*, Las Palmas de Gran Canaria, Spain, 2026.
 
-- I. DeAndres-Tame, C. Ye, R. Tolosana, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. in *Proc. IAPR International Conference on Pattern Recognition*, Lyon, France, August 2026.
+<!-- - I. DeAndres-Tame, C. Ye, R. Tolosana, R. Vera-Rodriguez, S. Yu. <a href="https://arxiv.org/abs/2512.19275">Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation</a>. in *Proc. IAPR International Conference on Pattern Recognition*, Lyon, France, August 2026. -->
 
 - M. Robledo-Moreno, R. Vera-Rodriguez, R. Tolosana, J. Ortega-Garcia. <a href="https://arxiv.org/abs/2605.14845">Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study</a>. In *Proc. International Workshop on Biometrics and Forensics*, Côte d’Azur, France, April 2026.
 
@@ -71,7 +71,7 @@ Conference Papers
 
 - J. Irigoyen, R. Daza, A. Morales, J. Fierrez, F. Jurado, A. Ortigosa, R. Tolosana. <a href="https://arxiv.org/abs/2602.15531">EduEVAL-DB: A Role-Based Dataset for Pedagogical Risk Evaluation in Educational Explanations</a>. in *Proc. the 16th International Learning Analytics & Knowledge Conference*, Bergen, Norway, 2026.
 
-- M. Lopez-Duran, J. Fierrez, A. Morales, D. DeAlcala, G. Mancera, J. Irigoyen, R. Tolosana, O. Delgado, F. Jurado, A. Ortigosa. <a href="https://arxiv.org/abs/2603.02150">Zero-and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)</a>. Under Review.
+<!-- - M. Lopez-Duran, J. Fierrez, A. Morales, D. DeAlcala, G. Mancera, J. Irigoyen, R. Tolosana, O. Delgado, F. Jurado, A. Ortigosa. <a href="https://arxiv.org/abs/2603.02150">Zero-and Few-Shot Named-Entity Recognition: Case Study and Dataset in the Crime Domain (CrimeNER)</a>. Under Review. -->
 
 - P. Korshunov, Vidit, A. Mohammadi, C. Ecabert, N. Shamoska, S. Marcel, Z. Yu, Y. Tian, J. Ni, L. Lazarevic, R. Khizbullin, A. Evteeva, A. Tochin, A. Grishin, A. George, D. DeAlcala, T. Endrei, J. Munoz-Haro, R. Tolosana, R. Vera-Rodriguez, A. Morales, J. Fierrez, G. Cserey, H. Sharma, S. Chaudhary, A. Dudhane, P. Hambarde, A. Shukla, P. Shaily, J. Kumar, A. Hase, S. Maurya, M. Sharma and P. Dwivedi. <a href="https://openaccess.thecvf.com/ICCV2025_workshops/DeepID">"DeepID Challenge of Detecting Synthetic Manipulations in ID Documents"</a>. In *Proc. IEEE International Conference on Computer Vision Workshops, ICCVw*, 2025. **(Second in Track 2 and Fourth in Track 1 of the Challenge)**
 
