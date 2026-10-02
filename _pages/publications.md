@@ -8,6 +8,12 @@ author_profile: true
 Journal Articles
 -----
 
+- P.Lozano-Jimenez, S.Romero-Tapiador, R.Tolosana. <a href="https://arxiv.org/abs/2608.28461">Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V</a>. *arXiv preprint arxiv:2608.28461*, 2026.
+
+- M. Robledo-Moreno, R. Vera-Rodriguez, R. Tolosana, J. Ortega-Garcia. <a href="https://www.sciencedirect.com/science/article/pii/S0167865526003570">Kinematic hallucinations in vision-language models: A study on zero-shot signature veritifacion</a>. *Pattern Recognition Letters*, 2026.
+
+- L. Pedrouzo-Rodriguez, L.F. Gomez, R. Tolosana, R. Vera-Rodriguez, R. Daza, A. Morales, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032601798X?via%3Dihub">Leveraging Avatar Fingerprinting: A Multi-Generator Photorealistic Talking-Head Public Database and Benchmark</a>. *Pattern Recognition*, 2026.
+
 - I. Solano, J. Fierrez, A. Morales, A. Peña, R. Tolosana, F. Zamora-Martinez, J. San Agustin. <a href="https://www.sciencedirect.com/science/article/pii/S0031320326005819">Balancing Tails when Comparing Distributions: Comprehensive Equity Index (CEI) with Application to Bias Evaluation in Operational Face Biometrics</a>. *Pattern Recognition*, 2026.
 
 - S.M. La Cava , R. Casula , S. Concas , G. Orrù , R. Tolosana, M. Drahansky, J. Fierrez, G.L. Marcialis. <a href="https://www.sciencedirect.com/science/article/pii/S2590005626001177">Exploiting Multiple Representations: 3D Face Biometrics Fusion with Application to Surveillance</a>. *Array*, 2026.
