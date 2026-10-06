@@ -76,7 +76,7 @@ Research Seminars and Technical Training
 
 - Marta Robledo-Moreno: “Biometric Systems in the Era of Smart Devices: Advances in Data Fusion and Artificial Intelligence”, Universidad Autónoma de Madrid, 3 June 2026.
 
-- Ivan Ioel de Andres: “Reconocimiento de Personas en la Era de los Modelos Generativos”, Veridas company, 5 February 2026.
+- Ivan Ioel de Andres: “Person Recognition in the Era of Generative Models”, Veridas company, 5 February 2026.
 
 - Daniel de Alcala: “AIdoc:A Framework for Generating and Identifying AI-Edited Documents”, Veridas company, 5 February 2026.
 

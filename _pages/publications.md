@@ -10,6 +10,8 @@ Journal Articles
 
 - P.Lozano-Jimenez, S.Romero-Tapiador, R.Tolosana. <a href="https://arxiv.org/abs/2608.28461">Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V</a>. *arXiv preprint arxiv:2608.28461*, 2026.
 
+- A. Becerra, R. Cobos and R. Daza. <a href="https://www.nature.com/articles/s41597-026-08240-w">A Multimodal Dataset of Student Oral Presentations with Sensors and Evaluation Data</a>. *Scientific Data*, 2026.
+
 - M. Robledo-Moreno, R. Vera-Rodriguez, R. Tolosana, J. Ortega-Garcia. <a href="https://www.sciencedirect.com/science/article/pii/S0167865526003570">Kinematic hallucinations in vision-language models: A study on zero-shot signature veritifacion</a>. *Pattern Recognition Letters*, 2026.
 
 - L. Pedrouzo-Rodriguez, L.F. Gomez, R. Tolosana, R. Vera-Rodriguez, R. Daza, A. Morales, J. Fierrez. <a href="https://www.sciencedirect.com/science/article/pii/S003132032601798X?via%3Dihub">Leveraging Avatar Fingerprinting: A Multi-Generator Photorealistic Talking-Head Public Database and Benchmark</a>. *Pattern Recognition*, 2026.
