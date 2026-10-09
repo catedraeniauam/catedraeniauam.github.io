@@ -8,6 +8,8 @@ author_profile: true
 Journal Articles
 -----
 
+- M. Ghafourian, B. Sumer, R. Vera-Rodriguez, J. Fierrez, R. Tolosana, A. Morales and E. Kindt. <a href="https://arxiv.org/abs/2302.10883" target="_blank">Blockchain and Biometrics: Survey, GDPR Analysis, and Future Directions</a>. *Computers*, 2026.
+
 - P.Lozano-Jimenez, S.Romero-Tapiador, R.Tolosana. <a href="https://arxiv.org/abs/2608.28461">Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V</a>. *arXiv preprint arxiv:2608.28461*, 2026.
 
 - A. Becerra, R. Cobos and R. Daza. <a href="https://www.nature.com/articles/s41597-026-08240-w">A Multimodal Dataset of Student Oral Presentations with Sensors and Evaluation Data</a>. *Scientific Data*, 2026.
@@ -49,8 +51,6 @@ Journal Articles
 - R. Daza, L.F. Gomez, J. Fierrez, A. Morales, R. Tolosana and J. Ortega-Garcia. <a href="https://ieeexplore.ieee.org/document/10633208" target="_blank">DeepFace-Attention: Multimodal Face Biometrics for Attention Estimation With Application to e-Learning</a>. *IEEE Access*, 2024.
 
 - R. Daza, A. Morales, J. Fierrez, R. Tolosana and R. Vera-Rodriguez. <a href="https://www.sciencedirect.com/science/article/pii/S0167865524001120" target="_blank">mEBAL2 database and benchmark: Image-based multispectral eyeblink detection</a>. *Pattern Recognition Letters*, 2024.
-
-- M. Ghafourian, B. Sumer, R. Vera-Rodriguez, J. Fierrez, R. Tolosana, A. Morales and E. Kindt. <a href="https://arxiv.org/abs/2302.10883" target="_blank">Combining Blockchain and Biometrics: A Survey on Technical Aspects and a First Legal Analysis</a>. *arXiv preprint arXiv:2302.10883*, 2023.
 
 Conference Papers
 -----
