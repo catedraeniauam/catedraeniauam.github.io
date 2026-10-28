@@ -120,7 +120,7 @@ PhD Students
   </tbody>
 </table>
 
-PhD Students funded by UAM in the ENIA framework but not developing the core Phase-1 ENIA research program (opening new research venues flourishing from it in collaboration with the main ENIA team):
+PhD Students funded by UAM in the ENIA framework but not developing the core Phase-1 ENIA research program (opening new research venues flourishing from it in collaboration with the main ENIA team)
 -----
 
 <table>
