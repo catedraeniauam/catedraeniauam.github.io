@@ -92,27 +92,47 @@ PhD Students
     <tr>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/javier.png"></p>
-          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/javier-mu%C3%B1oz-haro-4861b321a/">Javier Muñoz-Haro</a></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?hl=es&user=thSi0EoAAAAJ">Javier Muñoz-Haro</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/laura.png"></p>
-          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/laurapedrouzo/">Laura Pedrouzo-Rodriguez</a></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?hl=es&user=xYLElMkAAAAJ">Laura Pedrouzo-Rodriguez</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Javier Irigoyen.jpg"></p>
-          <p align="center"><a class="nombre" href="">Javier Irigoyen</a></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?hl=es&user=c-F982gAAAAJ">Javier Irigoyen</a></p>
       </td>
     </tr>
     <tr>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/marta.jpg"></p>
-          <p align="center"><a class="nombre" href="https://www.linkedin.com/in/marta-robledo-moreno/">Marta Robledo-Moreno</a></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?hl=es&user=3rjxsSYAAAAJ">Marta Robledo-Moreno</a></p>
       </td>
       <td width="33%">
           <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/miguel phd.jpg"></p>
           <p align="center"><a class="nombre" href="https://scholar.google.es/citations?user=tGNzY0EAAAAJ&hl=es&oi=ao">Miguel López</a></p>
       </td>
       <td width="33%">
+          <p align="center"><img class="img-70" src="https://catedraeniauam.github.io/images/Imanol.jpeg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?hl=es&user=YLltqVgAAAAJ">Imanol Solano</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Funded by UAM in the ENIA framework but not developing the core Phase-1 ENIA research program (opening new research venues flourishing from it in collaboration with the main ENIA team):
+-----
+
+<table>
+  <tbody>
+    <tr>
+      <td width="50%">
+          <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/avatar_default.png"></p>
+          <p align="center"><a class="nombre" href="https://portalcientifico.uam.es/en/ipublic/researcher/333244">Laura Gómez Carbajo</a></p>
+      </td>
+      <td width="50%">
+          <p align="center"><img class="img-50" src="https://catedraeniauam.github.io/images/Alejandro_Flores_Moleon.jpeg"></p>
+          <p align="center"><a class="nombre" href="https://scholar.google.es/citations?hl=es&user=9SGANvkAAAAJ">Alejandro Flores Moleon</a></p>
       </td>
     </tr>
   </tbody>

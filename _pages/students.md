@@ -20,6 +20,13 @@ PhD Students
 
 - Imanol Solano: “Research and Development of Robust Periocular Biometric Systems with the Ability to Detect Presentation Attacks and DeepFakes”, Supervisors: Julian Fierrez and Aythami Morales, 2023-Ongoing.
 
+Funded by UAM in the ENIA framework but not developing the core Phase-1 ENIA research program (opening new research venues flourishing from it in collaboration with the main ENIA team):
+-----
+
+- Laura Gómez Carbajo: “eMIRIAM – Comprehensive Risk Assessment and Mitigation in AI for Mental Health”, Supervisors: Raquel Rodriguez and Aythami Morales, 2025-Ongoing.
+
+- Alejandro Flores Moleon: “Sociotechnical imaginaries regarding AI and technological power in the EU”, Supervisors: Manuel Alcantara and Luis Bouza, 2025-Ongoing.
+
 M.Sc. Students
 -----
 
